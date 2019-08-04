@@ -32,3 +32,25 @@ So, in this project, we will use Rasa to build a smart faq-bot!
 
 
 <h2 align="center">Get Started</h2>
+
+1. Change the `BERT_CHINESE_MODEL_DIR` in `run_bert_service.sh` and run. More information about [bert-as-service](https://github.com/hanxiao/bert-as-service).
+
+```bash
+./run_bert_service.sh
+```
+
+2. Run Rasa custom actions
+
+```bash
+rasa run actions
+```
+
+3. Run Rasa x
+
+```bash
+rasa x
+```
+
+<h2 align="center">Dialogue Example</h2>
+
+![](./images/happy_path.png)

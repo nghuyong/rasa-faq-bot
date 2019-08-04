@@ -40,7 +40,7 @@ class ActionGetFAQAnswer(Action):
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         query = tracker.latest_message['text']
         most_similar_id, score = self.get_most_similar_standard_question_id(query)
-        if float(score) > 0.9:
+        if float(score) > 0.93:
             response = self.faq_data[most_similar_id]['a']
             dispatcher.utter_message(response)
             dispatcher.utter_message("请问您的问题解决了吗?")
