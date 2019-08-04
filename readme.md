@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/github/last-commit/nghuyong/rasa-faq-bot.svg">
   </a>
   <a href="https://github.com/nghuyong/rasa-faq-bot/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/nghuyong/rasa-faq-bot.svg"
+        <img src="https://img.shields.io/github/license/nghuyong/rasa-faq-bot"
              alt="GitHub license">
   </a>
 </p>
