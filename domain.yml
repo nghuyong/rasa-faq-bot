@@ -1,0 +1,15 @@
+intents:
+- goodbye
+- greet
+- faq
+templates:
+  utter_greet:
+  - text: 你好～
+  utter_goodbye:
+  - text: 再见～
+  utter_default:
+  - text: 系统不明白您说的话
+actions:
+  - actions.ActionGetFAQAnswer
+  - utter_greet
+  - utter_goodbye
