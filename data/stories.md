@@ -12,14 +12,10 @@
    - utter_ask_need_more_help
 * deny 
    - utter_goodbye
-   - export
-   - action_restart
 
 ## bye
 * goodbye
    - utter_goodbye
-   - export
-   - action_restart
 
 ## qa_happy_2
 > greet_part
@@ -33,8 +29,6 @@
    - utter_ask_need_more_help
 * deny 
    - utter_goodbye
-   - export
-   - action_restart
 
 ## qa_happy_3
 * faq
@@ -43,8 +37,6 @@
    - utter_ask_need_more_help
 * deny 
    - utter_goodbye
-   - export
-   - action_restart
 
 ## qa_bad_1
 > greet_part

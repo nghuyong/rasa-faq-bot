@@ -35,21 +35,51 @@ So, in this project, we will use Rasa to build a smart faq-bot!
 
 1. Change the `BERT_CHINESE_MODEL_DIR` in `run_bert_service.sh` and run. More information about [bert-as-service](https://github.com/hanxiao/bert-as-service).
 
-```bash
-./run_bert_service.sh
+You need to install bert-serving-server and bert-serving-client, and then download the pre-trained bert model according to your need. In the example, we downloaded the [BERT-Base, Chinese](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) model. More details are in [bert-as-service](https://github.com/hanxiao/bert-as-service).
+
+After you download the bert model, you get a .zip file. And then, for example, you create a folder named "bert-models" and put the model into the folder and unzip the model. In our example, I will get a folder named "chinese_L-12_H-768_A-12". We change the name into "bert_zh". 
+
+Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for example "F:/bert-models/bert_zh").
+
+![Image text](images/readme/1.png)
+
+After doing all these things, you can run the shell.
+
+```bash ./run_bert_service.sh
 ```
 
 2. Run Rasa custom actions
+
+Run the command.
 
 ```bash
 rasa run actions
 ```
 
+And then you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055).
+
+![Image text](images/readme/3.png)
+
+![Image text](images/readme/2.png)
+
 3. Run Rasa x
+
+You need to install [rasa x](https://rasa.com/docs/rasa-x/installation-and-setup/) first.
 
 ```bash
 rasa x
 ```
+
+
+If you are using a server, you should specify a port ranged form 8000 to 9000(for example 8888).
+
+```bash
+rasa x --rasa-x-port 8888
+```
+![Image text](images/readme/5.png)
+
+Change the localhost into your server ip, then you can access your rasa x page.
+
 
 <h2 align="center">Dialogue Example</h2>
 

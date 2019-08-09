@@ -2,14 +2,30 @@ intents:
 - goodbye
 - greet
 - faq
+- affirm
+- deny
+- bye
 templates:
   utter_greet:
-  - text: ä½ å¥½ï½
+  - text: ÄãºÃ¡«
   utter_goodbye:
-  - text: å†è§ï½
+  - text: ºÃµÄ£¬ÔÙ¼û¡«
   utter_default:
-  - text: ç³»ç»Ÿä¸æ˜ç™½æ‚¨è¯´çš„è¯
+  - text: Ã»Ìı¶®Ê²Ã´ÒâË¼Å¶
+  utter_ask_need_help:
+  - text: ÇëÎÊĞèÒª°ïÖúÂğ?
+  utter_ask_need_more_help:
+  - text: ÇëÎÊ»¹ĞèÒªÊ²Ã´°ïÖúÂğ£¿
+  utter_sorry:
+  - text: ·Ç³£±§Ç¸£¬Ã»ÓĞ½â´ğÄúµÄÎÊÌâ¡£Äú¿ÉÒÔ²¦´òµç»°×ªÈË¹¤·şÎñ...
 actions:
-  - actions.ActionGetFAQAnswer
-  - utter_greet
-  - utter_goodbye
+- actions.ActionGetFAQAnswer
+- utter_greet
+- utter_goodbye
+- action_get_answer
+- utter_default
+- utter_ask_need_help
+- utter_ask_need_more_help
+- utter_ask_is_success
+- utter_sorry
+- utter_bye
