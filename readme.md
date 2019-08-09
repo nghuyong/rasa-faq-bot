@@ -45,7 +45,8 @@ Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for examp
 
 After doing all these things, you can run the shell.
 
-```bash ./run_bert_service.sh
+```bash 
+./run_bert_service.sh
 ```
 
 2. Run Rasa custom actions
