@@ -39,7 +39,7 @@ You need to install bert-serving-server and bert-serving-client, and then downlo
 
 After you download the bert model, you get a .zip file. And then, for example, you create a folder named "bert-models" and put the model into the folder and unzip the model. In our example, I will get a folder named "chinese_L-12_H-768_A-12". We change the name into "bert_zh". 
 
-Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for example "F:/bert-models/bert_zh").
+Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for example "F:/bert-models/bert_zh"):
 
 ```latex
 bert-serving-start \
@@ -57,7 +57,7 @@ After doing all these things, you can run the shell.
 
 2. Run Rasa custom actions
 
-First you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055).
+First you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055):
 
 ```latex
 action_endpoint:
@@ -69,7 +69,7 @@ Then run the command.
 ```bash
 rasa run actions
 ```
-Then you will see this.
+Then you can get the log:
 
 ```latex
 │2019-08-09 11:10:32 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
@@ -94,14 +94,14 @@ If you are using a server, you should specify a port(for example 8888).
 rasa x --rasa-x-port 8888
 ```
 
-Change the localhost into your server ip, then you can access your rasa x page.
+And you can get the log:
 
 ```latex
 Starting Rasa X in local mode... �🚀                                                                                               
  
 The server is running at http://localhost:8888/login?username=me&password=zrjV0BwYSzYP
 ```
-
+Change the localhost into your server ip, then you can access your rasa x page.
 
 
 
