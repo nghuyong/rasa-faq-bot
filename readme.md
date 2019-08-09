@@ -41,7 +41,13 @@ After you download the bert model, you get a .zip file. And then, for example, y
 
 Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for example "F:/bert-models/bert_zh").
 
-![Image text](images/readme/1.png)
+```latex
+bert-serving-start \
+    -pooling_layer -4 -3 -2 -1 \
+    -model_dir=BERT_CHINESE_MODLE_DIR \
+    -num_worker=8 \
+    -max_seq_len=16
+```
 
 After doing all these things, you can run the shell.
 
@@ -53,7 +59,10 @@ After doing all these things, you can run the shell.
 
 First you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055).
 
-![Image text](images/readme/3.png)
+```latex
+action_endpoint:
+  url: "http://localhost:5055/webhook"
+```
 
 Then run the command.
 
@@ -62,7 +71,13 @@ rasa run actions
 ```
 
 
-![Image text](images/readme/2.png)
+```latex
+│2019-08-09 11:10:32 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
+│(1000, 3072)
+│2019-08-09 11:10:33 INFO     rasa_sdk.executor  - Registered function for 'action_get_answer'.
+│2019-08-09 11:10:33 INFO     rasa_sdk.endpoint  - Action endpoint is up and running. on ('0.0.0.0', 5055)
+```
+
 
 3. Run Rasa x
 
@@ -73,12 +88,17 @@ rasa x
 ```
 
 
-If you are using a server, you should specify a port ranged form 8000 to 9000(for example 8888).
+If you are using a server, you should specify a port(for example 8888).
 
 ```bash
 rasa x --rasa-x-port 8888
 ```
-![Image text](images/readme/4.png)
+
+```latex
+Starting Rasa X in local mode... �🚀                                                                                               
+ 
+The server is running at http://localhost:8888/login?username=me&password=zrjV0BwYSzYP
+```
 
 Change the localhost into your server ip, then you can access your rasa x page.
 
