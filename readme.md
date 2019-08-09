@@ -50,15 +50,16 @@ After doing all these things, you can run the shell.
 
 2. Run Rasa custom actions
 
-Run the command.
+First you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055).
+
+![Image text](images/readme/3.png)
+
+Then run the command.
 
 ```bash
 rasa run actions
 ```
 
-And then you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055).
-
-![Image text](images/readme/3.png)
 
 ![Image text](images/readme/2.png)
 
@@ -76,7 +77,7 @@ If you are using a server, you should specify a port ranged form 8000 to 9000(fo
 ```bash
 rasa x --rasa-x-port 8888
 ```
-![Image text](images/readme/5.png)
+![Image text](images/readme/4.png)
 
 Change the localhost into your server ip, then you can access your rasa x page.
 
