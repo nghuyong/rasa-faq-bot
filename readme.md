@@ -69,7 +69,7 @@ Then run the command.
 ```bash
 rasa run actions
 ```
-Then you can get the log:
+Then you can get the log like this:
 
 ```latex
 │2019-08-09 11:10:32 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
@@ -94,7 +94,7 @@ If you are using a server, you should specify a port(for example 8888).
 rasa x --rasa-x-port 8888
 ```
 
-And you can get the log:
+And you can get the log like this:
 
 ```latex
 Starting Rasa X in local mode... �🚀                                                                                               
