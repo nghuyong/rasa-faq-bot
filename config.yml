@@ -1,11 +1,11 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
-language: "zh"
 
-pipeline:
-- name: "JiebaTokenizer"
-- name: "CountVectorsFeaturizer"
-- name: "EmbeddingIntentClassifier"
+# en_core_web_sm is a language package you need to download first
+# and it's a spacy language model
+language: en_core_web_sm
+pipeline: pretrained_embeddings_spacy
+
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
