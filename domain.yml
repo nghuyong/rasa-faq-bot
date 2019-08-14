@@ -7,17 +7,18 @@ intents:
 - bye
 templates:
   utter_greet:
-  - text: 你好～
+  - text: Hello~
   utter_goodbye:
-  - text: 好的，再见～
+  - text: Okey, goodbye~
   utter_default:
-  - text: 没听懂什么意思哦
+  - text: Sorry, I don't know what you mean.
   utter_ask_need_help:
-  - text: 请问需要帮助吗?
+  - text: Do you need any help?
   utter_ask_need_more_help:
-  - text: 请问还需要什么帮助吗？
+  - text: Do you still need any help?
   utter_sorry:
-  - text: 非常抱歉，没有解答您的问题。您可以拨打电话转人工服务...
+  - text: I'm soory, I can't answer your question. You can call to turn to manual
+      service...
 actions:
 - actions.ActionGetFAQAnswer
 - utter_greet

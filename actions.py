@@ -16,6 +16,7 @@ import numpy as np
 
 
 class ActionGetFAQAnswer(Action):
+
     def __init__(self):
         super(ActionGetFAQAnswer, self).__init__()
         self.bc = BertClient()
