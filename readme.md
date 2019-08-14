@@ -1,4 +1,4 @@
-<h1 align="center">rasa-faq-bot-chinese</h1>
+<h1 align="center">rasa-faq-bot</h1>
 <p align="center">Using Rasa to build a FAQ bot</p>
 
 <p align="center">
