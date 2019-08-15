@@ -33,42 +33,43 @@ So, in this project, we will use Rasa to build a smart faq-bot!
 
 <h2 align="center">Get Started</h2>
 
-1. Change the `BERT_CHINESE_MODEL_DIR` in `run_bert_service.sh` and run. More information about [bert-as-service](https://github.com/hanxiao/bert-as-service).
+**1. Run the shell and activate bert-service**
 
-You need to install bert-serving-server and bert-serving-client, and then download the pre-trained bert model according to your need. In the example, we downloaded the [BERT-Base, Chinese](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) model. More details are in [bert-as-service](https://github.com/hanxiao/bert-as-service).
+We store the knowledge in data/nlu/faq.json，which includes lots of question-and-answer pairs. We use bert-service to calculate the similarity between the user question and the questions in the knowledge base. Then we choose the most similar question and return the corresponding answer to the user.
 
-After you download the bert model, you get a .zip file. And then, for example, you create a folder named "bert-models" and put the model into the folder and unzip the model. In our example, I will get a folder named "chinese_L-12_H-768_A-12". We change the name into "bert_zh". 
+* Specific operation：
+	* Install bert-serving-server and bert-serving-client，More information about[bert-as-service](https://github.com/hanxiao/bert-as-service)
+	* Download pre-trained BERT model，unzip it(for example, cased_L-24_H-1024_A-16.zip).
+	* Next, you need to change "BERT_ENGLISH_MODEL_DIR" into your model path
+	```latex
+     -bert-serving-start \
+     -pooling_layer -4 -3 -2 -1 \
+     -model_dir=BERT_ENGLISH_MODLE_DIR \
+     -num_worker=8 \
+     -max_seq_len=16
+    ```
+	* Run the shell
+	```bash 
+	./run_bert_service.sh
+	```
 
-Next, you need to change "BERT_CHINESE_MODEL_DIR" into your model path(for example "F:/bert-models/bert_zh"):
+**2. Run Rasa custom actions**
 
-```latex
-bert-serving-start \
-    -pooling_layer -4 -3 -2 -1 \
-    -model_dir=BERT_CHINESE_MODLE_DIR \
-    -num_worker=8 \
-    -max_seq_len=16
-```
+We design our own customer actions in actions.py which which is how the dialog responds to the user when it receives the customer's information. If the user's intent is faq, then go to the knowledge base to find the best match and give the user answers. If there is no match to the right question, we will also tell the user "Sorry, this question is beyond my ability."
 
-After doing all these things, you can run the shell.
-
-```bash 
-./run_bert_service.sh
-```
-
-2. Run Rasa custom actions
-
-First you need to change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055):
+* Change the port in endpoints.yml to keep the port the same as the port of rasa actions(default port is 5055):
 
 ```latex
 action_endpoint:
   url: "http://localhost:5055/webhook"
 ```
 
-Then run the command.
+* Run rasa actions：
 
 ```bash
 rasa run actions
 ```
+
 Then you can get a log like this:
 
 ```latex
@@ -78,20 +79,14 @@ Then you can get a log like this:
 │2019-08-09 11:10:33 INFO     rasa_sdk.endpoint  - Action endpoint is up and running. on ('0.0.0.0', 5055)
 ```
 
+**3. Run Rasa X**
 
-3. Run Rasa x
+* Install [Rasa X](https://rasa.com/docs/rasa-x/installation-and-setup/)
 
-You need to install [rasa x](https://rasa.com/docs/rasa-x/installation-and-setup/) first.
+* Run Rasa X
 
 ```bash
 rasa x
-```
-
-
-If you are using a server, you should specify a port(for example 8888).
-
-```bash
-rasa x --rasa-x-port 8888
 ```
 
 And you can get a log like this:
@@ -99,12 +94,23 @@ And you can get a log like this:
 ```latex
 Starting Rasa X in local mode... �🚀                                                                                               
  
-The server is running at http://localhost:8888/login?username=me&password=zrjV0BwYSzYP
+The server is running at http://localhost:5005/login?username=me&password=zrjV0BwYSzYP
 ```
-Change the localhost into your server ip, then you can access your rasa x page.
+
+Copy the link into your browser, then you can access your rasa x page.
 
 
-
-<h2 align="center">Dialogue Example</h2>
+<h2 align="center">Dialog example</h2>
 
 ![](./images/happy_path.png)
+
+
+**4. Note**
+
+* Sometimes when the service is started, the port is already in use. At this time, it is better to kill the process of the relevant port directly.
+* If the error is about the database is locked，just delete rasa.db and tracker.db.
+* You'd better use compatible rasa and rasa x，this project uses rasa 1.2.2 and rasa x 0.20.1(they are compatible)
+* Use your own data to train a model:
+	* Follow the data foemat in data/nlu/faq.json，replace it by your own data
+	* Run process.py(Default data size is at most 1000 pieces，you can modify the process.py on your own)
+	* Run actions.py
