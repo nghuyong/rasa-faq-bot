@@ -1,11 +1,7 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
-
-# en_core_web_sm is a language package you need to download first
-# and it's a spacy language model
-language: en_core_web_sm
-pipeline: pretrained_embeddings_spacy
-
+language: en
+pipeline: supervised_embeddings
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
