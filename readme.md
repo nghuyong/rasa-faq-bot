@@ -38,7 +38,7 @@ So, in this project, we will use Rasa to build a smart faq-bot!
 We store the knowledge in data/nlu/faq.json，which includes lots of question-and-answer pairs. We use bert-service to calculate the similarity between the user question and the questions in the knowledge base. Then we choose the most similar question and return the corresponding answer to the user.
 
 * Specific operation：
-	* Install bert-serving-server and bert-serving-client，More information about[bert-as-service](https://github.com/hanxiao/bert-as-service)
+	* Install bert-serving-server and bert-serving-client，More information about [bert-as-service](https://github.com/hanxiao/bert-as-service)
 	* Download pre-trained BERT model，unzip it(for example, cased_L-24_H-1024_A-16.zip).
 	* Next, you need to change "BERT_ENGLISH_MODEL_DIR" into your model path
 	```latex
