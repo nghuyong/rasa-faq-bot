@@ -29,14 +29,10 @@ FAQ（常见问题）bot是智能客户服务产品中最重要的部分，它�
 
 <h2 align="center">快速上手</h2>
 
-**1. 预处理**
-
-* 根据data/nlu/faq.json中的数据格式，用自己的数据将其替换
-* 运行process.py脚本（默认将数据条数最多设置成1000，可自行修改process.py）
-* 运行actions.py
 
 
-**2. 运行脚本启动bert-service服务**
+
+**1. 运行脚本启动bert-service服务**
 
 项目中data/nlu/faq.json存放着知识库，里面包含着许多问题和对应的解答。我们使用bert-service去对被询问的问题和知识库中的问题进行相似度计算，然后在知识库中匹配相似度最高的问题，并将相应的答案作为faq-bot返回给用户的解答。
 
@@ -58,7 +54,7 @@ FAQ（常见问题）bot是智能客户服务产品中最重要的部分，它�
 
 
 
-**3. 运行rasa客户服务**
+**2. 运行rasa客户服务**
 
 我们在action.py中编写自己的客户服务，即对话框接收到客户的信息时，如何回应用户。在该项目中自然就是检测用户的意图是不是faq，如果是，那么就到知识库中寻找最匹配的问题，并给予用户解答；如果没有匹配到合适的问题，同样也要告诉用户“这个问题在我能力之外了”。
 
@@ -85,7 +81,7 @@ rasa run actions
 ```
 
 
-**4. 启动Rasa X**
+**3. 启动Rasa X**
 
 Rasa X是一个很好用的rasa工具，可以从真实对话中学习并改进对话模型。需要注意的是，特定的Rasa版本需要特定版本的Rasa X去配套使用，否则会出问题。
 
@@ -96,25 +92,16 @@ Rasa X是一个很好用的rasa工具，可以从真实对话中学习并改进�
 ```bash
 rasa x
 ```
-* 服务器端运行Rasa X
 
-一般需要修改端口，使之成服务器网络可以访问的端口（以8888端口为例）
-
-```bash
-rasa x --rasa-x-port 8888
-```
-
-
-不出意外的话就可以看到这样的输出：
+不出意外的话就可以看到类似这样的输出：
 
 ```latex
 Starting Rasa X in local mode... �🚀                                                                                               
  
-The server is running at http://localhost:8888/login?username=me&password=zrjV0BwYSzYP
+The server is running at http://localhost:localhost/login?username=me&password=zrjV0BwYSzYP
 ```
 
-* 如果是在服务器端，那么把localhost改成服务器的ip地址再去访问就可以看到对话的界面了
-
+然后将链接复制粘贴进游览器就可以进入对话界面了~
 
 
 <h2 align="center">对话界面</h2>
@@ -123,8 +110,12 @@ The server is running at http://localhost:8888/login?username=me&password=zrjV0B
 
 
 
-**5. 注意事项**
+**4. 注意事项**
 
 * 有时候启动服务的时候会显示端口占用，这个时候直接kill掉相关端口的进程就好了
 * 显示数据库锁住了之类的报错的话，就把项目里的rasa.db和tracker.db两个文件删掉就好了
 * 一定要配套使用rasa和rasa x，不然会出问题，本项目使用的是最新的rasa 1.2.2和rasa x 0.20.1
+* 用自己的数据训练模型需要预处理数据
+	* 根据data/nlu/faq.json中的数据格式，用自己的数据将其替换
+	* 运行process.py脚本（默认将数据条数最多设置成1000，可自行修改process.py）
+	* 运行actions.py
