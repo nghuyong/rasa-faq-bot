@@ -1,1010 +1,1001 @@
 ## intent:faq
-- 怎么下载微信
-- 怎么安装电视猫啊
-- 电视猫怎么安装的啊
-- 微信怎么下载啊
-- 宽带网络故障
-- 电信猫怎么安装
-- 如何有手机里的钱在淘宝里支付
-- 下载平湖电信营业厅怎么下
-- 被拉去电信黑名单有什么后果
-- 月末狂欢包怎么扣钱是扣话费么
-- 华为mate电脑怎么播放光盘
-- 荣耀8可以用小米充电宝吗
-- A1530怎么才能用电信
-- 保康宾馆有wifi密码多少
-- 苹果手机怎么把卡通讯录导入手机
-- 华为Mate8什么时候上市
-- 电信特惠流量包怎么取消
-- 手机一直卡在开机界面
-- 乐一pro可以自己刷机吗？
-- 电信光猫灯怎么才正常
-- 怎么将校园电信宽带设为不断网
-- XZP可以用电信卡跑流量吗
-- 系统铃声可不可以删除
-- 小米5s屏幕可以裸奔吗
-- 苹果手机听筒进水了怎么办
-- 微信号第二次修改技巧
-- 如何关闭苹果手机的2G和3G
-- 手机怎么调成振动？
-- 魅蓝3s屏幕闪退怎么解决
-- 小米oppo那个好
-- 烦人P8手机照片怎么拷电脑上
-- 电信联通移动哪个宽带
-- 华为p932g价格多少钱
-- 联发科处理器好还是高通骁龙的好
-- 手机摄像头f5.0是五百万像素
-- 电信盒子如何Root
-- 800元的好手机有哪些
-- 手机设置上网帐号
-- 永兴电信可以单独办理宽带业务么
-- 9000怎么才能用电信3G卡
-- 手机无法正常使用，怎么修？
-- 有谁知道电信的服务口号是什么吗
-- 大王卡号码忘啦怎么办
-- 华为畅享5s怎么定时关机
-- 联通不给我安装光纤怎么办吧
-- 电信充值宽带的缴费渠道
-- 微信被我卸载重新装载怎么安装
-- 手机运营商密码怎么查
-- 我不想预存话费还怎么办
-- 手机卡怎么解决啊
-- 电信卡定向流量什么意思？
-- 这个手机能不能修好，要多少钱？
-- 正常网速是多少k/s
-- 电信卡可以开wfil吗
-- 求助，屏幕触摸完全失灵
-- 乐视手机和华为手机哪个好
-- A1530能破解电信吗
-- 电信更改套餐怎么办理
-- 微信手机号怎么解绑？
-- 华为畅享7plus什么时候上市
-- 50岁微信昵称
-- 移动联通电信会合并吗
-- 苹果7plus价格
-- 我想装多电信宽带不想用电信卡
-- 电信日租卡每月扣掉一共36元吗
-- 苹果手机怎么定时开关机
-- 如何申请新装电信宽带
-- 一加5t手机性能好不好
-- 移动卡没注销十年了,会扣多少钱
-- 翼支付非电信怎么注销
-- 电信二元卡是怎么收费
-- 苹果6p支持微信那个版本
-- 10+10=？送采纳s
-- 华为mate9是国产吗
-- 987可以用电信的卡么
-- 光纤的蓝色插头怎样拆开
-- win10电脑睡眠怎么唤醒不了
-- 手机丢了没有身份证怎么补办卡
-- 手机里文件夹可以放到内存卡里吗
-- 电信宽带办理一年多少
-- 手机欠费为什么打不了电话
-- 电信智能机顶盒怎么用
-- 小米nt1换个屏幕多少钱？
-- 路由器用户名忘了密码忘了怎么办
-- 京东上购买手机是正品吗？
-- 6内屏摔了，换一个多少钱
-- 请教sim卡中通讯录的存储问题
-- 电信电视机顶盒还需要有线电视吗
-- 手机指纹有划痕怎么办
-- oppo双清不了锁屏密码
-- 小米和华为哪个流畅？
-- 华为麦芒4有红外线吗
-- 小米手机6续航能力怎么样
-- 电信光纤猫正常亮灯图
-- 小米6一般多少钱的最新相关信息
-- mate7电信版支持天际通吗
-- 联想zukz2怎么用otg么
-- 微信绑定手机怎样解绑
-- 有没有用手机话费买东西的软件？
-- 华为荣耀7哪个版本流畅
-- 电信的华为光猫怎么连接
-- 华为mate9怎么刷机
-- 手机里的通讯录联系人怎么找回来
-- 微信零钱话费充值不到账怎么退款
-- 屏幕碎了.谁知道换屏多少钱
-- 电信宽带的资费一样速率确却不同
-- 电信装路由器多少钱
-- 无线网显示los亮红灯
-- 买到水货手机能退回吗
-- 苹果手机屏突然出现一道光
-- 哪里有红米2电信安卓原生线刷包
-- 手机玻璃后盖容易碎吗
-- 为什么俩张电信卡一起会卡啊
-- 帮我申请微信号
-- 电信的网就没人投诉么
-- 华为麦芒4支持微信运动吗
-- 泛泰A880S怎么截屏
-- 一加5和小米6手机选择哪个
-- 手机上的通讯录误删怎么恢复
-- 红米手机开启不了wifi
-- 电信是哪个国家的
-- 智慧经纪人APP在哪里下载？
-- 华为悦盒为什么会这样
-- 苹果手机没插耳机却显示耳机模式
-- 手机屏幕碎了如何自行修复？
-- 怎么才能用两张电信卡
-- 三星s8卡吗
-- 电信省内流量怎样充值
-- 红米note2可以校准屏幕吗
-- 电信iptv怎么看cctv5
-- 苹果手机怎么用电信卡
-- 为什么我的手机修改不了
-- 爱陶艺APP去哪下载啊？
-- 现在宽带，联通和电信哪个更合适
-- 宽带无线网出现los红灯怎么办
-- 电信流量好贵感觉好贵。
-- 下载手机制冷软件
-- 电信话费充值有没有送费
-- 如何在网上申请宽带提速
-- 怎么转电信随心卡套餐
-- 电信漫游收费什么时候取消
-- 翼支付充值话费多久才能到账
-- 移动联通电信哪个流量便宜
-- 魅蓝note6跟小米5x哪个好
-- 怎样使用qq微信备份手机通讯录
-- 改过一次微信号，还能改吗
-- 苹果手机怎么导入通讯录
-- 手机进水怎么办
-- 移动4G版本的可以用电信卡吗
-- 电信套餐一次冲不够会不会单扣费
-- 找回微信找回微信
-- 求助红米2电信版深度模式刷机
-- 江苏政务服务app收不到验证码
-- root手机划算吗？
-- 7.06可以破解电信4G吗
-- 我一充话费就没了
-- 连接路由器无法上网是什么原因
-- DvD光盘的内容如何复制到电脑
-- 如何取消电信流量套餐
-- 日版苹果5能换成国行的主板吗？
-- 我的手机运营商密码
-- 静宁电信拉网有两年720的吗
-- 如何实现锁屏和解锁
-- 湖南电信手机套餐
-- 华立电信宽带怎么退速
-- 加了微信群后要退出群怎么操作？
-- 电信卡号带4与不带4有什么区别
-- 小米5s一键换机怎么用
-- 欠费后重新缴费宽带连接不了
-- 苹果定制机有双卡双待的吗？
-- 电信可以改号码吗？
-- 电信话费只能买QQ会员吗
-- 海员路128号怎么去，中国电信
-- 手机怎么找回删除的图片
-- 苹果6s的CPU坏了还能修吗
-- 总归电信网一年多钱费用
-- 财富值有什么用？
-- 电信iptv卸载了会有事吗？？
-- 苹果7的USB接口在哪里？
-- 手机卡怎么办
-- 小米6续航到底好不好
-- 你们缺流量的时用叠加包吗？
-- 电信手机无法充值q币
-- 登录聊天微信
-- 畅玩4c电信版怎么退
-- 谁有电信ADSL的转给我
-- 苹果6splus什么版本好用
-- 电信有什么优惠套餐
-- 怎样能获得流量
-- 三大电信提速降费是真的吗
-- 电脑这样怎么开机？
-- 路由器哪里有卖
-- 电信版2S是双卡双模双待吗
-- 充错话费对方不退换怎么办
-- 一加5玩王者荣耀怎么样？
-- 电信流量大王卡怎么办理
-- wifi密码怎么解？
-- 无线流量电信卡哪里可以申请
-- 搜狗怎么下载
-- 洋县覆盖联通电信4g了么
-- 乐视1x600能用电信卡吗
-- win10系统怎么样添加打印机
-- 手机取消长途与漫游费套餐会改吗
-- 双11装电信宽带有优惠这些吗
-- 经典的电信手机哪几款比较好
-- 新办的电信卡有没有送流量
-- 电信公司六月份有活动吗？
-- 电信540网费套餐100兆
-- 周边哪里有电信充值的
-- 怎么在微信上办理电信宽带停网
-- 荣耀v9和小米6哪个制作工艺好
-- 怎样下载微信
-- 忘记了密码
-- 为什么手机卡没注销会有不良记录
-- qq显示手机在线是什么意思
-- 电信如何网上查寻宽带余额
-- 小米5高配和荣耀v8高配哪个好
-- 电信宽带怎么变成了个人网
-- 微信下载安装桌面上,
-- 电信酷视卡有流量封顶吗
-- 乐视1s支不支持电信？
-- 怎么用手机改路由器密码
-- 高配红4能不能同时用两个电信卡
-- 电信小米米粉卡怎么样
-- 流量现在可以转售了么
-- 用户口本销手机号码可以吗
-- 移动宽带能用电信机顶盒吗？
-- 想问下电信宽带一年多少钱
-- 如何要求运营商分配一个公网IP
-- 取消耳机孔怎么用耳机
-- 怎么能在最新微信里解绑手机号？
-- 可以安装两个月的宽带吗，每月钱
-- 电信合约卡3年的不想用了怎么办
-- 小米5x支持电信4g+吗
-- 各位大神优米r1怎么root
-- 如何把移动用魅租手机改成电信用
-- 我要下载微信
-- 金立gps信号弱怎么办
-- 充电一晚上都充不满，用的是原配
-- 微信6.516怎么样解绑手机号
-- 手机卡不用了要注销吗
-- 伟星管如何下载APP
-- 漫游费取消后短号还会收漫游费吗
-- 手机充值充到空号了怎么办
-- 从新下载微信号
-- 谁有电信好点的号码么
-- 电信宽带包年要多少钱
-- 为什么我的荣耀6不推送系统升级
-- 电信100MB直连，延迟高么
-- 华为荣耀5怎么三指截屏
-- 下载去哪儿网
-- 点两下手机屏幕亮屏
-- 电信和联通哪个网好用
-- 菠萝L338可以放电信卡吗
-- 58元的套餐宽带是多少兆的
-- 欢口装电信宽带多少钱一年
-- 苹果6pnfc能遥控吗
-- 电信两年前有没有拍照办理
-- 如何在一部手机里安装两个微信
-- 小米mix换个屏幕多少钱
-- 现在可以入手小米5S吗
-- 两台台式机怎么使用路由器
-- 用电信卡发热怎么回事
-- 流量漫游费是什么意思
-- 在什么上下载高德地图手机导航
-- 联发科20和骁龙625差多少
-- 至享包流量可不可以累计使用
-- 县城振兴路东边有电信宽带没
-- 电信3元日租卡怎么样
-- 苹果x买银色的还是深空灰色的好
-- 电信卡怎么激活？
-- 电信光纤宽带是不是后台有限制
-- 千兆光纤必须接光猫吗
-- 怎么改微信号
-- 电信电视怎么搜索免费电视剧
-- 电信蜗牛卡的消费是多少
-- 黔都云商app怎么下载？
-- 学校为什么要让电信垄断宽带
-- 小米max屏幕很大吗
-- 电信卡所说的套外25什么意思
-- 华为平板M4什么时候上市
-- APP信任用下载
-- 别人手机通话清单怎么查询
-- 怎样用手机充话费充值
-- 华为荣耀8多屏互动怎么用
-- 苹果6splus换外屏多少钱
-- 电信129元1个月怎样消费
-- 百度手机卫士是免费的吗
-- 为什么50M电信玩着游戏还卡
-- 我的电脑老是死机怎么办
-- 没有电信号码，能办电信宽带吗
-- 一加手机5T会不会很大？
-- 这是什么意思数据漫游
-- 全网通手机荣耀5x多少钱
-- 华为手机荣耀9能防水防摔吗
-- 电信境外流量包的资费如何？
-- 金立s9内存空间不足怎么清理?
-- 小米6什么时候开售m
-- 下载钉钉打咭怎么下载?
-- hd是什么意思怎么关闭
-- 电信的套餐反17块钱怎么反的
-- 港版s6怎么才能支持电信卡
-- 电信缴费刷卡凭什么四舍五入
-- 电信的，是不是通话时不能上网
-- 如何快速破解电信天翼光猫
-- 台式机怎样链接宽带
-- 月底电信客服怎么回事
-- 浙江电信宽带哪里有特惠活动吗
-- 诺基亚5300怎样插slm卡
-- 校园电信合约机欠费了要不要管
-- 轻松借我要怎么下载
-- 求解答，内屏坏了换屏大概多少钱
-- 手机卡是sim卡还是usim卡
-- 网上办手机卡上传视频还是照片?
-- 电信电话卡一个月费用多少
-- 东西湖哪里有电信包月卡
-- w8无线网络受限怎么办
-- 电信日安装宽带有优惠活动吗
-- 淮海教育App
-- 这个25的信息费是什么鬼？
-- 辛冲电信宽带能不能牵一个月
-- 手机文件夹里的什么文件可以删除
-- 电信十全十美享家套餐值得办理吗
-- 有谁知道电信网络20M怎么回事
-- 步步高儿童手表能用电信卡不
-- 无线网的线拔掉了,怎么重新插
-- 两个手机号码绑一块怎么解绑
-- 苹果电话录音功能在哪
-- 电信高清机顶盒
-- 数字电量会不会加快耗电
-- 乐视S3和荣耀8哪款手机好
-- 照相小米6好还是荣耀v9好
-- 乐视机顶盒可以用在电信宽带么
-- 华为荣耀8和v8的区别是什么
-- 电信一电信二数据互通了吗
-- 小米5s怎么设置指纹锁
-- 电信手机卡注销
-- 小米6怎么导入手机通讯录文件
-- 提问的问题总是问题暂时关闭
-- 电信光猫网络g灯闪烁，怎么维修
-- 微信号忘记了
-- 小米3换屏幕多少钱了
-- 怎样修改微信号
-- 大神们，怎么看WiFi密码
-- 无线网多少钱一年
-- 小米充电器给安卓充有影响么
-- 手机屏幕碎了多少钱能换98
-- 京东翼支付现在还减10么
-- 华为手机如何打开USB模式？
-- 阿吧町的电话手表能用电信卡吗
-- 求助安卓版一直认证中，然后闪退
-- 5S和小米红米Note4哪个好
-- 问，电信169流量版划不划得来
-- 这样怎么办呢....我要改套餐
-- 魅族note5怎么装双卡双待
-- 电信有什么优惠套餐
-- 苹果6s能解id锁吗？
-- 电信光纤猫怎么连到电视上
-- 中兴天机7max支持otg吗
-- 有没有手机话费可以支付的网站
-- opop手机密码忘了怎么办
-- 微信号被封
-- 电信订的咪咕阅读享受什么
-- 湖南永州电信不限量套餐怎么样？
-- 打电话都注销不了大王卡
-- 双十一买手机会便宜吗？
-- 电信宽带怎样可以申请到一个机箱
-- 网络问题请求大家帮助
-- 有谁是电信卡吗？
-- 我的微信怎么找回
-- 魅族note5屏幕多少钱
-- 头条关心卡新办理赠送的话费
-- 小米mix2s有多好
-- 如何快速破解电信天翼光猫
-- VIVO怎么root
-- 电信什么时候开新号段
-- 手机不开机，要怎么刷机
-- 华为mate8指示灯闪蓝光
-- vivo手机百度怎么横屏
-- 电信光猫怎么限制网速
-- 手机导航信号弱是什么意思
-- 努比亚z7max怎么用电信4g
-- 手机做一个小时直播需要多少流量
-- 斐讯k2路由器怎么设置
-- 100m光纤无线路由器怎么设置
-- 翼支付红包雨界面在哪
-- 光纤入户室内布线怎么解决
-- 哪个清楚米7手机多少钱
-- 华为手机如何更改字体没有啊
-- x6换个原装屏得多少钱
-- 荣耀畅玩4x扩展外置内存多少G
-- 小米5和LGG5哪个好
-- 天猫精灵为啥充不上话费
-- 华为售后可以换屏幕吗
-- 正常使用移动+电信4G吗
-- 这样的电视可以连接wifi吗？
-- 苹果手机激活和未激活有什么区别
-- 玩王者荣耀用什么手机不卡顿
-- 电信光钎怎么连接路由器
-- vivo手机怎么往内存卡里存储
-- 为什么我的微信号修改不了？
-- 微信号第二次修改技巧
-- 国产手机真没有可拆卸电板的了吗
-- 荣耀8用的是微卡还是什么卡
-- 华为更改接电话模式
-- 百度下载下微信
-- 中国电信最少的套餐是多少
-- 手机连不起wifi怎么回事
-- wifi连的多了，手机会不会卡
-- 荣耀8青春版和note8选哪个
-- 米粉卡的资费是永久套餐么
-- 如何用手机给电视安装电视猫
-- 铜雀台APP在哪里下载？
-- 去哪儿app一直闪退
-- 电信手机套餐，那种最好最划算
-- los红灯自己怎么解决
-- 有人联通卡转电信卡吗
-- 电信大号没话费了小号也没有的吗
-- E71能刷成安卓系统吗
-- 求助手机屏幕失灵
-- 电信手机卡注销
-- 电信4g业务办理身份证怎么识别
-- 华为p8手机升级系统需要双清吗
-- 华为畅享6s如何才能节省流量
-- 想冲100话费怎么优惠
-- 锤子T1和乐视Pro哪个好
-- 电信话费充错了怎么追回来
-- 什么宽带比较好的最新相关信息
-- 武汉电信宽带能包月吗
-- 剩余流量怎么转到下月
-- 这个怎么取消？
-- 电信宽带号码怎么查询
-- 换一个htc手机外屏需要多少钱
-- 路由器怎么设置Wifi无线网络
-- 苹果6S可以用两个微信吗？
-- 谁说10系统不能刷运营商
-- LOS亮红灯，怎么解决
-- 打电信客服报三年宽带应该怎么说
-- 亿店码APP在哪里下载?
-- 怎么找回已删除的微信好友
-- 实名制后电信号码怎么电话清单
-- 三大运营商现在哪家最强
-- 一加手机3换屏幕多少钱，谁知道
-- 水星路由器恢复出厂设置后怎么办
-- 定陶电信宽带信号怎么样
-- 个电信6m或8m宽带要多少钱
-- 一个手机号只能注册一个微信号吗
-- 苹果手机怎么卸载
-- 刚买了一部华为手机，不满意想换
-- 免费下载app软件
-- 2634·64M是多少G的流量
-- 电信宽带在哪里办理的吗
-- 骁龙810和625哪个强
-- wifi有信号但上不了网
-- 双12荣耀9多少钱入手
-- 电信100元套餐
-- 来宾市宽带转光纤需要收费多少钱
-- 电信四星用户和六星用户的区别
-- oppo需天天调闹钟吗
-- 酷视卡看优酷哪些视频不限流量？
-- 移动手机支持电信卡吗？
-- 小米5x怎么打开4G网络?
-- 电信宽带不用了又没到期能停吗
-- 电信合约机大家怎么处理的
-- 知道wifi密码连不上
-- 为啥现在的手机电池不可拆卸
-- 电信177开头后接区号
-- 小米MIX支持电信4G+吗
-- 印江电信营业厅/宽带哪家好
-- 导航信号弱是怎么解决
-- 取消长途漫游费后长途话费是多少
-- 电信4g数据怎么到3g
-- 下载德世久app怎么下载呀
-- 怎样把相册里的照片发到微信
-- 微信号不要了怎么注销
-- 用手机如何导航
-- 100兆电信光纤玩网通区会卡吗
-- 不会刷机
-- 电信老用户能转鱼卡吗
-- 电信哪个服人多
-- 手机sd卡什么牌子比较好
-- 米粉卡不激活能退款吗
-- 电信指定业务专属流量
-- 电信用户如何更换彩铃
-- 电信P7通话破音急在线等
-- LTE网络MCS是什么东西
-- 华为手机怎么设置指纹解锁
-- 手机屏幕摔碎了
-- 手机碎屏了可以购买碎屏宝吗
-- htc手机在哪里放卡
-- 二饭的WIFI密码是多少
-- 小米6，这跟短线是干嘛用的？
-- z17电信大3元套餐，能不能买
-- 移动联通电信手机充值卡怎么互换
-- 移动，联通和电信哪个运营商好点
-- voLte是什么手机
-- 的电信帐号怎么设置路由器
-- 后台程序运行占用内存怎么办
-- 有人打电话说我的手机要停机，
-- 小米5怎么用电信4g
-- 手机拿去修了，回来了相片都没了
-- 狂装网APP怎么下载
-- 齐河电信宽带多少钱一，两年
-- 苹果id被停用是永久停用吗
-- 魅族手机有哪些有otg？
-- 寝室里能安装路由器吗
-- 这个牌子的路由器怎么设置
-- 路由器那黑买
-- 胡寨电信10m宽带多少钱
-- 华为p8全网通版多少钱
-- 申请微信号
-- 隐身微信下载安装
-- 小米max2换个屏幕多少钱
-- 小米6怎么设置自定义铃声
-- 电信套餐销号大家都怎么弄的
-- 电信卡4G怎么能让网速更快？
-- 手机变这样了怎么救
-- 农村用电信宽带有不贴吗？
-- 华为p10可以插内存卡吗
-- 这是什么号码
-- 酷派Y1电信版多少钱
-- 电信日租卡初始弥漫是什么
-- 手机主题在哪里设置
-- 找回微信不小心册掉了
-- 宽带连接不不能上网
-- 光纤能直接接网线吗？能样接
-- 魅族手机一直这样该怎么办
-- 怎么进去注册微信号
-- 没有手机号码如何注册微信
-- 苹果5c怎么装SIM卡
-- 想改微信号
-- 华为手机怎样截屏
-- 单卡电信怎么设置上网
-- 笔记本电脑硬盘
-- 手机版mc无法安装
-- 华为手机开关键坏了怎么开机
-- 开启手机分身对手机有影响吗
-- 魅族手机换个屏幕怎么这么贵
-- 360N4A自带钢化膜么
-- 魅蓝2和华为荣耀4C哪个好
-- 现在电信还有大三元卡吗
-- 糖猫TM-E1这个电信的能用吗
-- 电信卡有协议可以改套餐吗
-- 重庆电信流量超出后怎么收费的
-- 华为手机的口袋模式
-- 换魅蓝note2屏要多少钱
-- 微信里的朋友删了怎么找回
-- 华为P9默认支持哪些音频格式
-- 金立s10可以闪充？
-- 电脑蓝屏怎么办
-- 未到期的电信合约套餐能更换吗
-- 电信手机号值钱吗
-- 手机必须充满吗
-- 有没有朋友要电信卡的昨天才买尼
-- 苹果6能不能用电信卡
-- 同时支持移动加电信手机有哪些
-- 苹果手机怎样把通讯录导出到卡上
-- 翼支付可以充QB，话费，电费吗
-- 今天刚充的流量可是用不了求解答
-- 电信外线员有可能转正式员工吗？
-- 大家认为mate7需要刷机吗
-- 电信宽带业务套餐可以换吗
-- xp系统怎么设置无线路由器
-- 移动机顶盒电信能用吗
-- 苹果6plus怎么插卡
-- 用爱奇艺视频耗电为什么那么快
-- 荣耀9对比努比亚Z17哪个好
-- 微信上办电信套餐靠谱么
-- ipad锁屏键在哪里
-- 无线路由器怎么更改密码
-- 玩cf用几兆的电信宽带
-- 有话费有流量时用1M流量多少钱
-- 如何用电信卡免费刷svip永久
-- 黑屏情况下发信息在能显示
-- 那个电话卡是用电信的合适还是联
-- 电信网费欠多少钱就开始断网了
-- 中国电信网络99元
-- 微信号第二次修改技巧
-- 求助，荣耀7突然不能用电信4g
-- 电信合约机一般几年
-- 屏跌坏了，换要多少钱
-- 乐视x501多少钱？
-- 电信充值卡卡密100元。没用过
-- 装电信宽带什么收费
-- 电信网上营业厅账号被锁定怎么办
-- 0.98gb流量多吗
-- 华为手机开机一闪一闪的开不了机
-- 路北，有电信营业厅吗，在哪里
-- 苹果六充电快用电也快是电池问题
-- 红米note3售后换屏多少钱
-- 怎么注册上网账号
-- 5寸5电信手机多少钱
-- 微信支付怎么播报金额
-- 电信警务通手机大概要多少钱
-- 电信网络路由器
-- 9是不是NFC不能用
-- 华为荣耀畅玩6x有没有耳机线
-- 乐视2手机换电池多少钱
-- mT8能放两张电信卡吗
-- 步步高手机截图怎么发送
-- 如何把手机上的通讯录导入sim
-- 华为p8max能用电信卡吗
-- 电信积分什么时候到账
-- 电信移动通话记录能删除吗
-- v1vx9换内屏要多少钱
-- iOS10.2.1怎么降级
-- 小米手机5为什么连不上wifi
-- 现在农村电信宽带贵吗
-- 我的流量去哪里了
-- honor电信手机数据如何切换
-- 下载两集高清电视需要多少流量
-- 充话费最真实最优惠是那
-- 什么是电信宽带
-- 如何在网上购买手机号码？
-- 电信通话记录怎样查询
-- 怎么把手机相册里的照片传到u盘
-- 魅族手机3s手机键位如何修复
-- 华为手机屏幕碎了保修吗
-- 地超现在还有一元电信卡吗
-- 庄里圈APP如何下载？
-- 魅族魅蓝3s有GPS导航功能吗
-- 支持电信4G+吗
-- y66能同时用两张电信卡吗
-- 光纤宽带50兆网速怎样
-- 冲着电玩手机会不会爆炸啊？
-- 电信手机流量超出1M是哪个钱
-- 用手环手机蓝牙要一直打开吗
-- 6S手机换个屏幕多少钱
-- 校园无线上网一个月多少钱
-- 手机上的数据删了能恢复吗
-- 有没有联通网玩电信区的
-- 修个手机充电接口多钱
-- 苹果6解锁可以吗
-- 王海电信能往支付宝里转钱吗
-- ipad2如何升级
-- 电脑连不上无线网
-- 黄潭电信为什么不能办理宽带报停
-- 电信无线上网卡放手机怎么使用
-- 中国电信无限量套餐是骗人的吗
-- 为什电信光猫有时候闪有时候不闪
-- 一根电话线可以有两个宽带账号吗
-- 电脑有电源开不了机
-- 现在手机里的话费还能干啥么
-- 二手九成新手机
-- 如何删除手机里的照片
-- 步步高x6怎么设置锁屏图案
-- 求个电信资深大神
-- 闪讯手机欠费问题
-- 那个软件可以充77话费
-- 电信套餐可以修改吗9月1日
-- 怎么进入那个刷机界面
-- note7哪个颜色好看
-- 身份证复印件可以补办手机卡吗
-- 红米note3自己怎么刷
-- 手机的照片怎样发送到电脑上面
-- 电信交了一年费后能不能退了
-- 电子邮件是什么
-- 电信homl怎么看电视
-- 电信PUK查询
-- 撸妹929支持电信卡吗
-- 电信无限流量卡多少月租
-- 有路由器宽带还用交费吗
-- 电信智能客服打电话让交费用
-- 笔记本连接不上无线网络
-- 微信昵称女
-- 电信宽带退订机顶盒不退会怎样
-- 锤子坚果pro哪个好
-- 电脑开机直接蓝屏了怎么办
-- 北京电信宽带10m多少钱
-- 去国外旅游手机卡怎么办的？
-- 华为p10应用市场在哪
-- 电信座机如何屏蔽短信
-- 湖北电信100m专用链路多少钱
-- 赤水电信宽带有没有100M
-- 2个人电信2M宽带够不够用
-- 为什么小米的手机发烫度居榜首
-- 电信的号在联通版的手机上能用吗
-- 安卓手机电池实际容量
-- 有没有用电信不限量套餐的
-- 新浪邮箱能向163邮箱发邮件吗
-- 电脑上没网但是手机有网怎么回事
-- 乐视二手机的数据线坏了怎么办
-- 小米6有收音机功能吗
-- 求解电脑怎么弄wifi
-- 截屏怎么截
-- 电信办宽带带别人的身份证可以吗
-- 华为P10和华为荣耀V9哪个好
-- 自己的手机丢了怎么办
-- 电信有没有免流量视频
-- Z5有没有电信卡可用的版本
-- 3g流量要多少钱
-- 手机关机定位
-- 无线网卡怎么计费
-- 电信光纤宽带一年多少钱
-- 显示这样就是电信800M了吗
-- 电信卡看电视要流量吗
-- 索尼8142电池消耗太快
-- 魅蓝note微信没声音怎么办
-- 拉100m以上的光纤需要多少钱
-- P8一晚上耗电10%合理吗
-- 购机送话费可以送4G卡吗
-- 电脑怎样使用电信当月流量包
-- 水星怎么隐藏wifi信号
-- 电信拉网线一年多少钱
-- 求助，外屏碎了，哪里能换
-- 什么是本地流量
-- 申请微信号码
-- 华为荣耀6x怎么分屏
-- v3能用两个电信的卡吗
-- 怎么查自己的网络是电信还是联通
-- 求电信crm系统操作指南
-- 日版蝴蝶不能使用电信卡吗
-- 电信宽带的上网记录可以清除吗？
-- 一加5手机，第一次充电需要多久
-- 中国电信的掌上营业厅网址是多少
-- los亮红灯
-- 卖扫描仪的吗？
-- 换光纤用本人身份证吗
-- 我昨天换了张卡怎么不能冲话费
-- 手机cpu占用过高怎么办
-- 路由器怎么设置
-- 芽庄电话卡包括话费一共多少钱
-- 为什么平板比手机配置好还更便宜
-- 电信电视升级后怎么放直播
-- 什么是400电话
-- 求助魅蓝note5更新变砖
-- 电信流量卡怎么办理的
-- 手机出现故障怎么办
-- 华为手机忘记数字密码怎么解锁
-- 乐视x500可以用电信卡吗
-- 10.65GB流量可以做什么
-- 菊花机等于华为手机？？？？？？
-- 电信营业厅啥时候开门
-- 金立s9屏幕坏了修要多少钱
-- 翼支付怎么切换京东帐号，果果
-- 手机摄象头权限在哪里
-- 现在绥江电信宽带贵不贵
-- 苹果手机ID可以远程解锁吗
-- 电话少流量多那个套餐合适
-- 学子电信卡和外面电信卡一样吗
-- 171号码是电信号码吗
-- 如何检测电脑usb是否是3.0
-- 有无线网的情况下，无法升级
-- 电信翼支付的支付限额是多少？
-- 打400电话，扣话费吗
-- 微信号骂，可以修改第二次吗，
-- 怎么查询移动手机上通话清单
-- 荣耀8现在多少钱可以入手
-- 为什么电信网厅选号只有177
-- 运营商是什么意思
-- 中国电信电小二怎么注销
-- 有两张电信卡怎么办
-- 华为mate多少钱
-- 电脑加个硬盘有什么影响吗
-- 苹果7摔掉漆可以补色吗
-- 怎么在电信机顶盒中装第三方应用
-- 充电宝充不进去
-- 港行A1530会支持电信4G吗
-- wp8的电信手机有哪些
-- 索尼xz怎么用电信卡上网
-- 华为荣耀畅玩4x内屏多少钱
-- 怎么下载刮刮乐APP啊
-- 三星a9000屏幕多少钱
-- 话费哪有优惠
-- 小米note2屏幕为什么
-- 天津电信闲时流量是几点到几点
-- 谁家是电信宽带.有福利了
-- 华为nova青春版换屏幕多少钱
-- 怎么隐藏微信个人信息里的手机号
-- 宽带调制解调器出现连接问题
-- 电信交一年网费送漏油器不
-- 爱听爱看爱玩这些流量包怎么用
-- 苹果手机里面通讯录没有有怎么办
-- 怎么让手机放两张卡电信的为4g
-- 在哪里现在微信
-- 安卓手机的通话记录怎么查看全部
-- 640元每年宽带费是什么套餐
-- 这配置吃鸡可以吗
-- 电信月结发票怎么打印
-- 手机入水了听筒声音小怎么办
-- 苹果7下架了吗
-- 联通电信合并了没有
-- 华为mate支持电信吗
-- 维比手机怎么截图？
-- 遇电信诈骗后紧急止付怎么做
-- 电信宽带怎么升级100m
-- 苹果5电信版可以用移动卡吗
-- 宽带的账号和密码是什么吗
-- 电信机顶盒摇控器谁知道怎么设置
-- 旋分期软件怎么下载
-- 电信可以破解wifi的吗
-- 家里100M光纤，速度好慢。
-- 小米5X换屏需要多少钱
-- 手机发热无服务
-- 酷派5367是全网通手机吗
-- 如何破解苹果5S密码
-- 苹果7128g内存够用了吗
-- 红米手机note3是双卡双待吗
-- 更新后为什么经常闪退
-- a1530可以用电信4g吗
-- 苹果手机可不可以用内存卡呀？
-- 微信找回微信燕子
-- 苹果6微信打不开
-- 大家觉得小米4c颜值怎么样
-- 我想恢复以前的套餐
-- 免费申请我的微信号
-- 微信上怎么申请微
-- 小米mix2什么时候发布？？？
-- 青橙手机是全网通的吗
-- 电信号手机做热点怎么调成外网
-- 米6是不是用不了电信4G
-- 容易付聚合app客户端下载
-- 天翼宽带设备注册重置了怎么办
-- 手机自动关机后开不了机怎么办
-- 小米6与努比亚m5哪个值得入手
-- oppo手机qq怎么卸载
-- 电信强制用户升级为20兆
-- 小米6和荣耀9哪个大
-- 经常开热点对手机有影响吗？
-- 手机可以更新吗
-- 魅族pro6维修需要返厂吗
-- 找回微信，自己不会弄怎么办？
-- 三星i699怎么遥控空
-- 手机话费怎么充值q币
-- 80元的电信流量能视频多少时间
-- 美腿9需要贴钢化膜吗
-- 电信宽带连不上网，什么原因
-- 如何查别的手机话费
-- 电信米粉卡什么时候开办
-- 小米4联通版，怎样才能用电信卡
-- 手机号可以查得到寄卡进度吗
-- 怎么短信查询别人的话费
-- 微信怎么下载？
-- 0ppa37怎样解密码
-- 电信光猫登录密码忘记了怎么弄
-- 入手N5的有用电信卡的么
-- 微信运动下载及安装
-- 换一个苹果6s外屏需要多少钱
-- 这是什么手机啊
-- 手机号能查到身份证号码吗
-- 什么情况下需做备份，怎么做
-- 完美破解电信到底什么意思
-- 电信光猫怎么上联通的网
-- 广州电信12M光纤多少钱
-- 同一个身份证可以办2个电信卡吗
-- 三星A76可以用电信卡吗?
-- 怎样查询WLAN剩余流量
-- 小米2s不支持电信卡吗
-- 电信流量看视频
-- tfapp手机验证码收不到
-- 华为荣耀4x充电接口坏了能修吗
-- 电信卡过户有的业务会消失吗?
-- 下载微信红包
-- 电信国际漫游费取消了吗
-- 小米2860mah电池能用多久
-- 电信禁止补卡怎么投诉
-- 荣耀v9怎么知道是快充还是慢充
-- 电信173号段没归属地
-- 怎样下载宅聊APP？
-- 电信申请转大鱼卡要多久
-- 台式电脑不能开机怎么办
-- 电信一元500兆在哪能看电视
-- 学校有几个电信营业厅
-- 大哥，这是哪几个手机应用！
-- 三星手机3119怎么截屏啊
-- 微信交错话费了能修改吗
-- 问一哈是要去电信营业厅吗
-- 创建微信必须得用手机号吗？
-- 电信宽带欠费上征信吗?
-- 魅族手机如何截屏
-- 红米5plus怎么样
-- 手机相册做qq头像
-- 在网上买小米手机哪个店最好。
-- 天翼号码可以转普通电信号码吗
-- 全民k歌。下载
-- 怎么下载？
-- 什么东西能让手机不热
-- 无线网被拉黑了自己怎么解除？
-- 小米max金色好看吗
-- 小米概念手机？什么鬼
-- 手机来电明细怎么查询
-- 贵安可以装电信宽带吗
-- 电信卡热点能连笔记本电脑嘛。
-- 永顺县电信网络为什么收费这么高
-- 用身份证登记的手机卡丢能丢吗
-- 荣耀4c电信版怎么强刷
-- 华为畅享5重置内存会变小吗
-- 电信无线网可以连接但是上不了网
-- 苹果手机更新后怎么恢复原来版本
-- 谁这几天新办的电信宽带
-- 水星路由器怎么样用过的说一下？
-- 红米2移动增强版能用电信4g么
-- 手机打电话为什么连接慢
-- 大家买的是美版还是港版
-- 三星s7卡槽二不能使用，为什么
-- 求助，突然闪退什么贵
-- 荣耀9显示充满电还用冲吗
-- 荣耀7参数，现在还有卖吧
-- los灯亮不闪烁为什么
-- 努比亚啥时候升级安卓7
-- 麦芒6有128GB吗
-- 电信米粉卡套餐开通
-- 怎么连无线上网？
-- 要充300多话费，怎么优惠
-- 天翼宽带怎么安装使用
-- 微信号可以修改吗
-- 恢复微信
-- 0p手机来声音怎么变小了
-- 苹果6p电池，
-- 能查到手机通话记录吗
-- 5a换屏多少钱？
-- 猫咪APP怎么下载
-- 电脑蓝屏求助
-- 苹果6s外屏碎了可以打手游吗
-- qq怎么破wifi密码破解
-- mate2电信版是双通吗
-- 怎么把ios11降到ios10
-- 中国电信5202店在哪里
-- 钱脉通x6可以用电信卡吗
-- 有人是搞电信宽带的吗
-- 电信流量无限用有限止省份吗
-- 苹果8还是苹果x好？
-- 下载微信并安装到手机桌面上来
-- 电脑系统坏了怎么用u盘装系统
-- 合川电信宽带4m大家的是多少钱
-- 为什么我家不能装宽带
-- 电信zts电视缴费怎么交
-- 有电信话费活动么
-- 河口电信流量卡有什么样的套餐
-- 电信最实惠的流量包有哪些
-- V升级7.0后怎么使用电信4G
-- 电信手机号码要换个名字
-- 如何把手机ROOT？
-- 怎么不动手机就能刷机
-- 荣耀6连上无线上不了网
-- 电信流量有活动吗，国庆出去要用
-- 屏幕碎了一点，换要多少钱
-- iOS11蜂窝移动网络怎么设置
-- 报废手机多少钱
-- 电信聚力卡有什么特权
-- 三普fm888手机能装电信吗
-- 枕头乡电信营业厅/宽带哪里好
-- 安卓手机怎么设置静态IP地址
-- 国产机买哪个最好
-- 手机内存卡现在贵吗
-- 手机卡在开机界面。
-- 刚刚装的电脑硅脂涂太多有事吗
-- 求wifi账号和密码
-- 手机收不到验证码
-- 怎样在电脑上查询手机欠费多少钱
-- 电信流量保险可不可以重复订购
-- 钦州电信的光猫怎样设置Wifi
-- 优学派学生平扳电脑怎么充电
-- 华为交换机如何开启路由功能
-- 如何把平果手机升级
-- 大家电视用的是电信还是有线
-- 现在电信的网络多少钱
-- 注册支付宝需要几个手机号码
-- 这是哪个运营商的塔
-- 10元用电信百兆光纤，约吗
-- 怎么下载两个全民K歌
-- 地图卡是SD卡还是TF卡
-- 买一台二手手机，有卖的么
-- 怎样开通微信
-- 手机套餐降级怎样更改
-- 大神I4S到底能不能降级了
-- 8385是移动还是电信
-- 一个微信两个微信号
-- 电信2年合约套餐违约金
-- 那些停产的手机坏了去哪里修
-- 新办的电信卡要注销
-- 电信卡有流量王吗?
-- 乐视Max和魅族pro5哪个好
-- 电信集宿宽带在那登帐号
-- 华为Mate8续航有多强
-- 有没有电信4G转wifi的
-- 怎么恢复手机删除的文件
-- 怎样找回丢失苹果手机
-- 电信129返30
-- 有没有那种冲话费便宜的
-- 华为手机怎么截图
-- 苹果7闪光灯怎么设置
-- 红米手机不能识别sd卡怎么解决
-- 手机听筒没声音怎么办
-- 耗电正常吗，就是看了会淘吧
-- 微家上微信怎么更新
-- 戴尔能不能刷win7系统
-- 武汉电信宽带续费应该怎么办理？
-- 手机是用移动还是电信的
-- 网上抢够的苹果手机能退订吗
-- ios11可以退回ios10吗
-- 苹果8多会儿发布啊
-- 现在电信上网费用是多少
-- 微信充错话费可以申请退款吗
-- 电信宽带和广电宽带哪个划算？
-- 电信卡的，信号比联通移动好吗
-- 国家规定现在电信只能用电纤吗?
-- 全网通和全网通公开版有何区别
-- 有要电信3G上网卡的了吗
-- 电信宽带慢该怎么投诉
-- 荣耀8新机用更新系统吗
-- 求含有root的rom包
-- 为什么电信卡用的人少
-- 华为畅想6手机铃声没有怎么设置
-- 电视猫怎么安装
-- 电视猫怎么安装啊
-
-## intent:goodbye
-- 不用啦，拜拜
+- Now that "Nederlands" is used for Dutch in Dutch, what do Dutch speakers call German?
+- This system was a direct answer to what?
+- What technique do Daptobacter use in order to kill other microorganism?
+- Visual communication among birds may involve what kind of displays?
+- Why were laws limiting people of color passed?
+- What was the project that von Neumann first participated in government?
+- Who is the citys fourth largest employer?
+- Who takes care of the 132nd Street Community Garden?
+- Who are they descendants of?
+- What was the name of the strategic bombing of North Vietnam?
+- What scientist is most associated with the heliocentric worldview?
+- Where do many ground birds, such as quails and pheasants, roost?
+- In what country does Tito have a street named in his honor?
+- Who acts as a mentor during this deployment phase of the BMT?
+- Who represented Oribe's Blancos?
+- When did Roman Catholic Jesuits and Capuchins arrive in Tibet from Europe?
+- What year was Queen's third greatest hits album released?
+- How are digimon born?
+- What term followed "negro" and "colored"?
+- What did Beyonce and Rowland found in 2005?
+- With which type of government did Ortiz replace the old one?
+- When did the 1981 FIBA African Championship take place?
+- What philosophy is closely related to process philosophy?
+- When did "Superstorm Sandy" strike Atlantic City?
+- What is gustatory communication include in dogs?
+- Sanskrit is the primary sacred language of which religion?
+- Spectre passed which movie to have the largest per screen opening average?
+- Holding hands with one's partner and telling others about a relationship are examples of what kind of adolescent event?
+- What was the October 2014 purchase price of the Waldorf Astoria?
+- How many Russians were in defense?
+- Who made the first known clean slate decrees?
+- Did the FBI target MLK?
+- Where is the Romansh culture located?
+- What kind of printing press helped increase the circulation and influence of The Times back in 1817?
+- What is extremely important to prenatal and postnatal development?
+- About how many schools across the country is ICG active in?
+- What conflict affected Utrecht
+- How many local newspapers does the island have?
+- Which architects in the US and Britain still employ the Georgian style for private residences?
+- IBM committed to an expansion totaling this dollar amount in 2014?
+- What is another work of Avicenna that is said to not be his creation?
+- In the mountainous interior north of Portugal, between what degrees is the average temperature?
+- Who usually owns and manages National parks?
+- What does the "Fourth of June" celebrate?
+- What was the original term related to?
+- What does Běidǒu translate as?
+- What types of piety did the Puritans advocate?
+- What do some eschew altogether? 
+- Who was the first warrior to become imperial advisor?
+- What excluded a set from belonging to itself in set theory?
+- Which countries use the term chancellor to denote the head of government?
+- What is an insects head, throat, and abdomen called?
+- What is Rodman's Neck between?
+- What are other names for a control unit for a computer?
+- Who represented Rivera's Colorados?
+- Who was the ruler of China in 677?
+- From April 1854 to February 1857, what port did the British and French lock down?
+- How far back does the Jews' shared common genetic pool date?
+- What are the most often found rocks in Antarctica?
+- Which site removed the option of downloading youtube videos after 2012?
+- What is one of the sources electricity is being generated from?
+- What is the total length of the railways?
+- What is the guntiino normally made from?
+- In what state's supreme court was State v. Santiago decided?
+- What can the public and private sector offer employers that NPOs usually cannot?
+- Who called American Idol a conniving multimedia monster?
+- An uncertain relationship was held between the Slavs and who?
+- What party did the D.C. Statehood Party merge when?
+- What failure did Cruyff have in his last two seasons as manager with Barcelona?
+- What causes the behavioral adaptations necessary for migration?
+- What did older operating systems use to mark the end of the text?
+- What shape do glacial valleys have after being widened by glacation?
+- In what year did the U.S. Congress afford Connecticut the deed to the site at Fort Hale in New Haven?
+- In what part of the world did the fictional detective, Nero Wolfe, live in?
+- By what year did Japanese strategists expand their concept of the Greater East Asia Co-Prosperity Sphere?
+- Which campus holds the undergraduate schools, the Graduate school, and the Kellogg school of Management?
+- How was the lawsuit decided for Apple vs. Microsoft and Hewlett-Packard?
+- What is the current national rank of Brown School of Social Work?
+- When was the first madolin made in the US?
+- What was the name of Victorias eighth child?
+- When was the area incorporated into Northumbria?
+- What is the official dress code today at Buckingham Palace?
+- Who said that she is the reigning national voice?
+- Who did Price think should see themselves as citizens of the world?
+- Keyboard instruments included the pip organ, harpsichord and what other instrument?
+- Were the ealiest LaserDiscs in 1978 analog or digitally formatted?
+- The Tallgrass Prairie Preserve is the largest protected tallgrass prairie in what area?
+- How many new LDS Church wards were added during Wilkinson's presidency?
+- What is one country that contained considerable and prosperous towns during this time?
+- What was the economy of North Carolina based on after the confederacy?
+- What did American Idols first winner sing at the Lincoln Memorial in 2002? 
+- What was the average speed of a winning solar powered car by 2007?
+- Is all work done by children considered to be child labour?
+- What occupation did David Jones have?
+- What was the name of extinction level event that ended the dominance of the carnivores among therapsids?
+- Approximately how many phonograph records were sold in 2014?
+- What philosophy in the west was challenged by Whitehead?
+- Along with Guam, which other territories were in the United States jurisdiction before WWII?
+- By what other name were some Marvel-related comic books published?
+- What is the name of the city's public television service?
+- What is the biggest public park in the city?
+- Which church did the 9 founders of Northwestern affiliate the university with?
+- Which contestant had to go to the hospital during the week of the top 20?
+- On Neptune, which clouds cast shadows on the cloud deck below it? 
+- What continues in some circles at the discretion of the defining agency or academic department?
+- What is the word for a beardless, athletic youth?
+- The visible, ultraviolet and X-ray spectra are all above what spectrum?
+- How many restaurant are located in the center of New Haven's city?
+- What variables help the photographer produce the desired effect?
+- What leader started a mass movement against British rule?
+- What was the name of the building style that resulted from the use of brick?
+- From Thionville towards Trier, what was the final destination of the offensive?
+- Which color is opposite of red on the visible spectrum?
+- What do devout Muslims believe is the reason for the overlap of events and characters in the Bible and Quran?
+- Who was the JK Bridge named for?
+- In what country did FROLINAT operate?
+- How many people of Somali ethnicity live in Somalia?
+- As of 2008, geothermal power development was underway in more than how many countries?
+- Where was the library of Pergamum located?
+- Which dialects did not follow the Neoshtokavian retraction?
+- Where was the earliest church labeled "Baptist" traced to?
+- What percentage of the country does it make up?
+- What type of tall buildings are being planned on Southampton's waterfront?
+- When did Namibia obtain full independence?
+- Which country was being invaded when Daniel and his friends were captured?
+- When did Kerry join the Naval Reserve?
+- What is the main driver of the economy now?
+- How many inhabitants were left without shelter after the siege?
+- What writer fused humanism with the Dominican Order teachings?
+- The Principle Corridor features which type of doors?
+- What is a major barrier to videoconferencing between some communities?
+- When did the financial crisis hit its most critical stage?
+- Who as the last man to be eliminated?
+- What type of person is likely to replace zippers and buttons?
+- What does Planck's law correctly predict?
+- Which country's government wanted Samoa to grow bananas for them?
+- Who is regarded as a feminist during her time?
+- who returned to england after sailing around Cape Comorin?
+- What happens when someone tries to improve education?
+- What were the tesserae usually set in for miniature mosaic icons?
+- The infant brain contains more of what type of cells in the brain than the adult brain?
+- What can one high-power LED replace?
+- What percentage of applicants did BYU accept for it's summer term and fall semester in 2013?
+- Along with Tolkien, what modern scholar notably made use of Old English?
+- What did Paul VI want to keep open with the modern world and people from all walks of life?
+- What does the Duchy of Lancaster operate as?
+- Around how many soldiers were in each regiment of the Northern Army?
+- What newspaper was founded in 1935?
+- What example city service was cut back on in the Bronx?
+- What percent of Native American ancestry may originate through gene flow from the Mal'ta-Buret' population?
+- What governmental department contributed a grant to Schwarzenegger's hydrogen fuel project?
+- What is the process of producing a biologically functional molecule of either RNA or protein called?
+- What physical symptom accompanied Muhammad's revelations?
+- What is St. George credited with?
+- What is Miami's largest newspaper written in Spanish?
+- What do greenhouses do with solar energy?
+- The Super NES had how many pins in its proprietary connector?
+- What was the state of Utrecht 
+- Instead of work, how did most Western European peasants pay their landlords in this period?
+- Who, along with members of the South Korean government, fled South Korea?
+- Who led the rescue effort after the earthquake of 1985?
+- To Kill a Mockingbird is widely read in which countries schools?
+- Little River marks the boundary between Geelong and which other city?
+- Which borough can Fort Hamilton be found?
+- Other than Yale, New Haven has another private college in the city, it's name?
+- What percentage of BYU students are members of the LDS Church?
+- What is the ratio of young Estonians who speak Russian relative to those who speak English?
+- What is Whitehead's most famous statement on religion?
+- The record is part of what wind family?
+- What types of species are thought to still have been dominate until after the extinction?
+- On what date was the Treaty on the Creation of the USSR passed?
+- What connects continuous symmetries to conserved quantities?
+- Parque Batlle is named in honor of who?
+- What is an important Old English historical record?
+- During what seasons are courses offered at the Washington University School of Law?
+- ENIAC was constructed by whom?
+- To what type of theater is Seattle second to New York?
+- What is the estimated number of Buddhists in the world?
+- What was needed to replace an iPod Nano battery?
+- Who did the official from Myanmar meet with ?
+- Game animals were introduced here by whom?
+- What is one of the features that have come to be considered as an important part of the Gothic style?
+- How does the mental health profession approach efforts to change sexual orientation?
+- When were interceptors like the F-102 Delta Dagger first built?
+- What is a layer of meristem or formative tissue known as?
+- What were taxpayers free to do after they paid the Duke of York his local tax?
+- About what nearby planet could the Antarctic meteorites hold data?
+- What journalist did The Daily Mirror wrest from The Sun?
+- How many years does regular ovulation follow menarche?
+- When did Jewish law recognize copyright?
+- Late Caboniferous and Early Permain are what kind of orders?
+- What helped the industry weather the 2009 economic crisis better than other sectors?
+- In which direction have the British Isles been drifting?
+- Beyonce's first child is named what?
+- How does Czech mark subject nouns?
+- Where was the main focus of Pan-Slavism?
+- The Achaemenid Empire was the known enemy of what nation's histories during its existence?
+- What phrase did people believe Bell's dog could say?
+- What was the romance genre of Divan poetry known as?
+- Which dynasty restored and expanded the network that became the Grand Canal of China?
+- Which politican left the presidential race after supporting a boycott by voters?
+- The red and blue Chinese Luncheon Room has what as a main feature?
+- If recommit fails, then what choice needs to be made by minority representatives?
+- What company designed this interface?
+- What was Nasser's first title in the Liberation Rally?
+- How much of Estonia's native Estonians speaks Russian?
+- During what decade did the Seljuk Turks occupy Armenia?
+- When was the edict written?
+- At what pub did Ronnie Kray kill someone in 1966?
+- The Renaissance is generally used to describe developments in what areas of life in the Middle Ages?
+- How much were the vouchers worth that Nintendo sent out?
+- Generally, up-peak mode takes place during what times of the day?
+- How many students in total were at Notre Dame in 2014?
+- ABout how many people in the state of Montana speak Cheyenne?
+- Who was most critical of Nasser's rule?
+- What can not be undertaken n Security, at Immigration/Customs or in Baggage Reclaim?
+- When was the Oklahoma City Bombing?
+- What is the name of the company that managed the colony from 1615-1684?
+- What program did Creative join in order to make iPod peripherals?
+- What did Microsoft name the SKU that replaced the 360 Core?
+- How many routes to Canada does Detroit have?
+- Who has an active community of journalists and publishers?
+- When was the enlightenment of spiritual philosophy challenged?
+- How many Hollywood rounds were there in the first nine seasons?
+- What award was My Beautiful Dark Twisted Fantasy omitted from?
+- What is now located at the former centre of Valencia?
+- What can be attributed to BYU's high percentage of second language proficient students?
+- According to the 2014 census, how many people live in Houston?
+- What notable accidental fossil fuel discharge occurred at Newtown Creek?
+- How many periods of geology are within the Paleozoic era?
+- What is one of the famous Lima-based restaurants in Mexico City?
+- What is Musee national des arts asiatiques famous for housing?
+- What is the outcome when a curren is reflected>
+- What increased society's autonomy, self-awareness, and need for exchange of information?
+- What is the acronym for British Broadcasting Corporation?
+- What process replaces tissue damaged by TB?
+- How many kilometers of paved roads does Israel have?
+- What is considered to be the the Korean War's equivalent to Gettysburg?
+- Which ocean is on the coastal area of Namibia?
+- What borough was home to a notable population of free African-Americans?
+- Which inventor went bankrupt?
+- Serialization of comics became less popular when?
+- Which Cathedral is considered the first thoroughly Gothic cathedral?
+- What is breathy voice?
+- The Londre Centre for Nanotechnology was a joint effort between UCL and which college?
+- When was Phil Skinner awarded an MBE? 
+- What is another word for ligatures? 
+- How many contestants made it past the first round of auditions?
+- When hydrogen oxidates, what does it end up giving?
+- How many destinations does George Bush Intercontinental Airport serve?
+- What style of literature could commonly be found in Roman works?
+- Who persuaded the king to lock the wine cellars during WWI?
+- What was the most important Mahayana centre of learning?
+- With walnut, what's another tree in the intermediate group?
+- When did Beyonce become the first African American woman to win Pop songwriter of the year?
+- What is the syrinx?
+- What document teaches that Jesus' brothers and sisters were older children of Joseph from a previous marriage?
+- Which two groups of Marvel crimefighters are based in a fictional version of New York City?
+- What is a form of communication observed within plants?
+- What was also pushed for by result of sarmatism?
+- In what city did the standardization of red as a color of stop lights occur?
+- Which company pays Firefox to make their search engine the default on their browser?
+- Who does the Quran say was also from a pious family?
+- The Ottomans were portrayed as what?
+- When did Tito leave India?
+- What is one type of metal which the conducting plates in electrolytic capacitors are commonly made of?
+- in 1778 most of the troops that the EIC had were from where?
+- What are the sources of natural deposits of asphalt?
+- What is a well known Afro-pop artist?
+- What is a protein that carries copper ions in chelation?
+- When were all the lodges in Iraq forced to close?
+- How many days long is the growing season?
+- How many foreign governments maintain trade and commercial offices in Houston?
+- In what square do the bands all play at once?
+- When was clonal selection theory first proposed?
+- Why did the banner say that was unveiled during the temporary halt?
+- What news company  discovered visual evidence of the disdain exhibited by civil employees and civilians in Burma ?
+- How many nocturnes did Chopin compose?
+- 1.1 was the first widely used version of what?
+- Who met with Gorbachev on November 22?
+- How many spots did Southampton lose in the "fittest city" rankings for 2007?
+- Some records at NARA are legally protected by what?
+- What did Parsons believe made a functional society?
+- what new influences led to a new house sound?
+- How many bridges in Oklahoma were found to be deficient in 2010?
+- From what language does Universitas come from?
+- Elevator drive mechanisms have, in the past been, powered by what?
+- If the alleles on the chromatids are different, what effect arises from genetic recombination? 
+- What TV show lampooned one of Kanye's BBC Radio 1 interviews?
+- How did the Kazakh SSR government say the two protesters were killed?
+- In which states had Brincourt run military affairs previously?
+- Who conquered Panormos and briefly turned it into a Greek colony?
+- Where is the Art Deco style badge design used prominently?
+- An insects hard body parts are called what?
+- In how many countries does Shell have operations?
+- What kind of rules does a poly-sided match usually have?
+- What were rabbis from the ghettos forced to march through the city streets wearing?
+- When did the decedents of the Congo and Afro-Caribbean arrive in liberia?
+- What technology has become more widely available and affordable?
+- John followed in the tradition of who?
+- Why did post-punk fall out of love with punk?
+- What did Nintendo release in Japan only?
+- What is the legislative branch of Bermuda modeled after?
+- What are the 3 main department store companies in Denmark? 
+- What Era began following the defeat of the confederacy?
+- Who had a leading role in liberating Yugoslavia?
+- When did the Cimbrian War end?
+- What hardware component did CNET have the biggest problem with, even comparing it to an old credit card reader?
+- What apparitions reportedly took place in 1917?
+- What is being lead to specialty roles?
+- What group decided to keep the "African" in their name?
+- Who holds the legislative power?
+- How was the reclassification of documents in '06 revealed?
+- What treatment helps improve those with allergic rhinitis and asthma?
+- What event led to an increase in tourism in 2009?
+- In what year was the Pure Food and Drugs Act passed?
+- What congressional declaration gave President Johnson authority to send troops to Vietnam?
+- A partially full frame's ability to have part of the next frame's audio data is referred to as what?
+- Which notable New Haven resident inventor, credited with the cotton gin, is buried in Grove Street Cemetery?
+- What year did the Rugby Football Union form?
+- What sort of identity was promoted by the RCC?
+- What country is Saint-Barthélemy a collectivity of?
+- At what former lodging facility in New Haven were scenes from the 1950's classic, All About Eve, filmed?
+- How old did biblical scholars think the Earth was?
+- What is the coldest month in Boston?
+- What is one potential issue with drinking alcohol while taking antibiotics?
+- Are the vacuoles of plant cells larger or smaller than animal cells?
+- What value may clothing designed to be fashionable also have?
+- What significance does Dec 7/ 1948 hold?
+- During which time period did the legend of Virgil in his Basket arise?
+- What kind of linguistics is phonetics considered to be a part of?
+- How much of the population left after 1950?
+- What two companies worked together to develop the Western Electric System?
+- What 2 main weapons does Link use in combat?
+- What year were the elbow tablet first discovered?
+- When was The Scooter on Neptune observed?
+- What state uses as a motto a passage from the Bible?
+- Who is the Doris Leuthard?
+- How many seasons are there in Raleigh?
+- What would more people report themselves as if a more consistent report were considered?
+- In what city did the Romans use verdigris in murals?
+- Where was the Eton Mission originally to be located?
+- When was the Roman Empire split into western and eastern administrative divisions?
+- Where can fatty acids be found?
+- Among which builders was the Gothic style first used?
+- What neighborhood houses the headquarters of Miami Today?
+- Which museum is located at Ann Arbors historic downtown fire station?
+- What is the name of the upper house of the Marshall Islands Parliament?
+- Who was appointed satrap of Egypt after Alexander's death?
+- What publicly traded bank, also the second largest in Connecticut, is based in New Haven?
+- West and East Slavs are sometimes combined into a single group called what?
+- What was the name of the campaign by the British in Holland that created a second front in the war?
+- What programs did Milton Winternitz create?
+- What is the term for the head of China's government?
+- When did Nigeria's economy become larger than South Africa's?
+- Madonna is recognize as the best selling female music artiste by who?
+- The rituals for the correct way to enjoy Mass is listed in what text ?
+- what did knights of the turntable release in 1984?
+- What have a number of tourism-related organizations placed Greek destinations at the top of?
+- The ICTR was established for the purpose of convicting those responsible for acts of genocide and what other charges?
+- What did the V-12 program provide to interested pupils?
+- What is Yale largely known for?
+- In what year did the British defeat the Dervishes?
+- What is the term for Russian-speaking people?
+- How much money did Apple make in 2007?
+- During what century did the Seminoles enter Florida?
+- What is another name for Nikaya buddhism?
+- What is the area of land?
+- What inconsistency would be found in this explanation?
+- What must happen before the Supreme Court will reverse a decision by a lower court refusing to uphold a constitutional law?
+- What was the name of the "folk opera" based on 'Porgy'?
+- What was the main type of oil painting painted by Eisenhower?
+- What Tech company is based in Detroit?
+- When were the mosaics at Bizere Monastery created?
+- Belize, Chile and Greenland are just some countries with sizable populations of what peoples?
+- What is the collection of plants in the environment called?
+- What does PPE stand for?
+- How many public performances did Chopin do where he made his debut after completing his education?
+- Traditionally, what must a state do in order for an obligation to arise in international law?
+- THE SCN receives information from the optic nerves through what?
+- When did Japan formally have signed the surrender?
+- How old was Bell when he became a "pupil-teacher"?
+- In treaty negotiations, what trades did France hope to make.
+- The Sri Lankan Supreme Court's decisions override what?
+- What follows a geodesic of space-time?
+- What planet also gets it's color from atmospheric constituent? 
+- Where are XML databases frequently used?
+- During what years did Tito lead the Partisans?
+- What city and state does the interstate 10 end at?
+- What is the population of Beer Sheva?
+- What is one way that the Empire was described as it related to culture?
+- What is God in deism?
+- In 1763 what was the status of Frederick?
+- What is the literacy rate in Kuwait?
+- In Mahayana Buddhism, what are some Mahayana sutras that are believed to remove negative karma just by the hearing of the texts?
+- Wood fibers from wood strands, lumber, and what other source can be glued together to make larger units?
+- How much rain does Houston usually get per year?
+- What law regulated the rules for time shifts in Israel according to the Jewish calendar?
+- What language is the source of the term Catellain?
+- What president ignored Eisenhower's recommendations in regard to atomic weapons?
+- Insects have what kind of skeleton?
+- On what date did the Occupy Wall Street protests commence?
+- What book did Will Eisner create in 1985?
+- What was the name of Brian May's signature guitar?
+- In what year did a coup take place and new dictatorship form?
+- What was the look of the dollar based on?
+- What type of losses happen during conversion and transmission in wires and electronics?
+- What was the maiden surname of Gaddafi's second wife?
+- When did Arent Schuyler de Peyster visit Tuvalu?
+- From where did H.J. Porter hale?
+- What is the name of the dog that could ID over 200 things?
+- What was the name of the airport the United States built on Ascension Island?
+- What is one cause for Melbourne's fluctuating weather patterns?
+- What journalist wrote that Beyoncé was a "sex symbol"?
+- What event led to larger crop yields in the High Middle Ages?
+- Which already existing schools did Northwestern affiliate itself with in the 1870's and 1880's?
+- What office contains the FBI's administrative offices?
+- What biblical passage informs Jehovah Witnesses' refusal of blood transfusions?
+- What notable document was authored by Thomas Jefferson in 1786?
+- What substance is hemicellulose impregnated with?
+- What power can help someone overcome sin?
+- Where was it believed that that fight against Communism would take place?
+- On what day did Paul VI die?
+- What is 'a scrimmage' another term for?
+- Which street begins just North of East Huston Street and continues to Bowery?
+- What is the Gash Group?
+- What are the two exceptions to the voting rights in United Kingdom of Great Britain and Northern Irelandand Britain?
+- By the 2000-1 season what was the percentage of foreign players?
+- Which development in 1915 played a key role in developing Alaska?
+- What party lost control of House in 2010 elections?
+- How many states are linked to from highways in Hyderabad?
+- Where do the tourists for the Plum Blossom Festival come from?
+- After their agreement together, Beyonce's and Topshop" new business was called what?
+- At what point during season 9 of American Idol did Ellen Degeneres become a judge?
+- What does the study say in regards to boycotts?
+- Is much of Melbourne's metropolitan area characterized as low-density sprawl or high-density sprawl?
+- Where did Alexander's army finally mutiny?
+- When did Chopin's relationship with Sand start to deteriorate?
+- What was the name of the remake of Thunderball?
+- What was banned in Switzerland in 1955 after the Le Mans disaster?
+- What year did the Vienna Philharmonic first accept women?
+- What did the Boston Globe have to say about Yale?
+- How long were the units in inches of the Mohenjo-daro ruler?
+- What faith does Swayambhu belong to?
+- The Cubs built a substantial lead in what league under management of Leo Durocher?
+- How much of the economy was not controlled by Nassir's government?
+- What cabinet agency did Eisenhower make Social Security a part of?
+- Who were three Chicago blues players who influenced hard rock?
+- What type of geneticists have debates about what can provide a basis for a new conception of race?
+- What is defined as a way of filtering network data between a host or network and another network?
+- Which arrangement was used for Cook's version of Billie Jean?
+- The need to code excess energy in the frequency domain decreases what kind of efficiency?
+- On what date was the Communist Party of the Russian SFSR suspended?
+- When was the shooting?
+- Where did the Southeast Asians introduce their dance?
+- Who espoused the "national path to socialism"?
+- Who could a newly elected magistrate expect to be appointed by?
+- What power was Congress given by the Constitution?
+- What happened to Britain during the 17th century?
+- What percentage of 14 year olds said they were proud to be German in 2009?
+- What property of wood could we project some indication of by looking at its density?
+- What followed Jesus around?
+- Who traditionally paid for scholars to study natural sciences?
+- How many people were killed in the race riot of 1943?
+- In Eastern Europe, what is the word for an institute of technology?
+- Which town is Sicily's primary industrial and commercial center?
+- What happens after a bill is delivered to the OFR?
+- What republic had the Karachay Autonomous Oblast previously been a part of?
+- What states that any differentiable symmetry of the action of a physical system has a corresponding conservation law?
+- What did St Augustine believe that funeral feasts gave an opportunity for?
+- A Contemporary composition written in the style of an earlier era is described with what prefix?
+- What single year did Windows 95 use to apply rules to Israel's time changes?
+- What scientific discipline is still taught in modern madaris?
+- Along with Limburgish, what other Dutch dialect is spoken down into a lot of the southern Netherlands?
+- What late 1990s Chicago rap group was Kanye West a member of?
+- How much land did the Native Americans own in 1934?
+- Who gave the first live war report?
+- When did the uniform theory of groups develop from different sources? 
+- What does Coral Way connect to Coral Gables?
+- What was the cause of Lady Flora's death in July? 
+- What type of vehicles participate in the AG2R Race?
+- Estonia's constitution declares the division of what parts of society?
+- What position did Mee hold in the Arsenal club prior to becoming manager?
+- What part of the cotton plant is used for paper manufacture?
+- What aircraft did Alcock and Brown use in 1919 for their flight? 
+- Why did the Luftwaffe bomb the RAF Fighter Command?
+- Where did William Knibb work toward the emancipation of slaves?
+- What organization debates the rule of law?
+- Why did monasteries have gardens?
+- What are huge quantities of information stored as?
+- In 2011, England introduced a new away kit in what color?
+- What topic did Paul VI see as the most important to the church counsel?
+- What is a good technique to foster party harmony?
+- What law did Obama cite on Sep 9, 2014?
+- How many active programs does the foundation have? 
+- How many Pentecostals are there in the world?
+- What was Galileo's nickname?
+- What was the point of Operation Glory?
+- Where was Madonna raised?
+- Where can individual each USAF wing, group or squadrons individual motto be found?
+- How much did Germany pay in reparations to the Israeli state?
+- How much recoverable gas is still undiscovered in Alaska, according to the US Geological Survey?
+- Where was Calvin criticized?
+- What is the home stadium of the Hyderabad cricket association?
+- What LEDs have a very steep I/V curve?
+- Where did Feynman work at in Brazil?
+- Who has spread the teachings of the Baptists to each continent?
+- Troiden's second stage is referred to as what?
+- What was the name of the manor that previously existed on the site?
+- What sort of temperature is typical on a Kathmandu morning?
+- The largest Carnival celebration takes place in which city?
+- In what century did the European average annual temperature decrease?
+- What Super Bowl took place at MetLife Stadium?
+- What is the population of San Diego's urgan area?
+- An adult eusocial insect does not contact it's what?
+- Where was very expensive wallpaper imported from?
+- What is some factors in family communication that could affect communication between family members?
+- What is another name for roundworms?
+- What is Panentheism?
+- Which new governor was arrested by Ochoa and Bustamente?
+- Along with corruption, what were Libyans upset with in 2011?
+- Where did Nurhachi move his court to?
+- Which channel would not work in conjunction with AC-3 audio?
+- What was the transportation advancement made possible by Sprague's designs?
+- Are more rings necessary if they're narrow or wide?
+- In what year was Thompson v. Oklahoma decided?
+- Which cultures claim to be a dominant source of Bermuda's cultural heritage?
+- Around what time were the knights and szlachta very similiar?
+- After whom is the performing arts center in Midtown named?
+- Most Hokkein morphemes have what type of characters?
+- How many songs does Madonna have on the Hot Dance Club Songs Chart?
+- Where is the data for the NCIC located?
+- How is UTF-32 widely used? 
+- What solar process can be used to produce different fuels?
+- What are the giant, gaudily painted effigies of phalluses made of?
+- What market did Dell begin to compete in in 2009?
+- How far back does Egypt's history date back?
+- Who initiated a successful price war among PC manufacturers in 1994?
+- The Boston Public Library is located in what part of Boston?
+- What divides energy transformation into two kinds reversible processes and irreversible processes?
+- What can happen if species immigrate to a new location?
+- Who was the father of John Manners, Marquess of Granby?
+- Who described Armenian life in 401 BC?
+- Which works did Virgil model the Aeneid after?
+- What other injuries have been connected with wrestling?
+- Where do Swiss militia keep their Army issued equipment?
+- What size was Siddhārtha Gautama's birthplace?
+- Literary devices are employed for what reason?
+- When is it damaging?
+- What was the name of Queen Victoria's first grandchild? 
+- What was EU average amount of energy from renewable sources in 2008?
+- Which two countries sought to crush the nascent republic?
+- Most insects have what kind of vision?
+- What prize did the film Mortu Nega win?
+- What was ClarisWorks renamed beginning with version 5.0?
+- What did congress pass in 1830 
+- What caused Quaker and Methodist preachers to want to free slaves?
+- Wings from the paranotal lobes are based on what theory?
+- Who reigned during the most affluent period of Bourbon rule?
+- In what city did Dominic establish a school?
+- What company counts the votes on American Idol? 
+- What notable event occurs each August?
+- Into what 3 lists are legislation subjects divided in India?
+- What was the name of the book that Darwin wrote on emotions?
+- What did the island have an abundance of when discovered?
+- What was the name of the producer that helped Kanye West?
+- On what date was KU's Lawrence campus made official?
+- What should the driver do in order to open and close the circuit breaker?
+- What is the most efficient means of transportation into and out of Alaska?
+- What is Greece's economy classified as?
+- In what city was the 12 in LP released?
+- What model did Murray Gell-Mann develop?
+- What refers to the number of samples that must be analysed before a block of audio is processed?
+- The crew could be order to drop the bomb by what?
+- Who did Torii Mototada serve?
+- What type of powers were granted to Pompey by the senate?
+- What global agreement gives sovereign national rights over biological resources?
+- Which group officially chose the name "Laservision"?
+- Based on year 2000 data, where is GE ranked among the largest corporate producers of air pollution in the US?
+- Where did the Celts who settled in Galatia pass through?
+- What provoked the first request from Portugal for financial support?
+- What century saw more diverse industries come to Southampton?
+- What does diagnosis of an infectious sometimes involve identifying? 
+- What use the traditional radical-based character index?
+- In what year was the name Russian Soviet Federative Socialist Republic adopted?
+- What company bought the presidential Boeing 727 after Tito's death?
+- When assent is granted in person, when is it formally considered final?
+- What is the difference between multi-level political forms and federalism? 
+- Aside from consumption how are Guinea fowl  useful to humans.
+- What part of the life cycle of moths does Bt toxin effect?
+- Who performed live with Queen on The Show Must Go On in 1997?
+- What percentage of Plymouth consists of non-religious people?
+- Who said that the state would consider a referendum to end the monopoly that Atlantic City holds on casino gambling?
+- Where does the fungus Geotrichum candidum originate from?
+- What was the second time period that a significant change began to happen in Cubism?
+- In a realistic model of a capacitor, where else besides between the dielectric between the conductors might an electric field be found?
+- Which political supporter of Willett's proposal had already used the half-hour version of DST at Sandringham?
+- By who was the first record of solar distillation done by?
+- What kind of file sharing became popular due to the file sizes of MP3s?
+- Who was similar recommended intake volumes as adults?
+- What is the current station called?
+- Managers and support staff is considered what and thus cannot be shown a card?
+- How many men did he have?
+- How do Ismailis differ from Twelvers?
+- When did human rights for Aboriginal people begin to improve?
+- Is the division rate of the TB bacterium fast or slow relative to other bacteria?
+- What county is Charleston located in?
+- When did Chopin last perform?
+- In what year was an agreement reached to ban mining in Antarctica?
+- What did the use of Old Style and New Style cause?
+- What is the name of the millet based porridge like beer made in Kyrgystan?
+- What architectural style was Second Presbyterian Church built in?
+- Are the bacteria in caseous necrotic material living or dead?
+- The Frankfurt proposals sought to reduce France to what?
+- Where did Martin Luther preach a sermon on Marian devotion a month before his death?
+- What can the referee consider a pin attempt to be, even if the attacker is still on top of the pinned wrester?
+- What society is a strong contender for the common culture speaking Indo-Iranian?
+- What American invented the cotton gin?
+- Who was the target audience of natural history?
+- For what reason did CBC attribute to delayed upgrades?
+- Other than rice, what would be another example of an incomplete protein source?
+- What was the name of the man that tried to shoot Queen Victoria?
+- What is the danger to humans in regards to the spread of avian flu to humans ?
+- In what year did Tucson get the least rain?
+- What is the name of the first commercial hotel built in Atlantic City?
+- At what time did Paul VI die?
+- Bulgaria became independent within the Empire as the result of what war?
+- Who captured the border front of Saint Nicholas during a night attack?
+- What was the main opposition political party in 2011?
+- What is sheftalia?
+- Where was one female Dominican house located?
+- In what year did Konrad Adenauer first visit the United States?
+- Which person plotted to overthrew the regime of Empress Dowager Yan?
+- In what year did Canada beat USA 56–7 in a Rugby World Cup qualifying match?
+- How many people had their sentences commuted by State v. Santiago?
+- What was the result of publicly funded links among computers in government labs and reserach institutes?
+- What kind of an entity did Popper believe the universe to be?
+- Why do some regulatory regions of a gene not have to be close to the coding sequence?
+- Traffic patterns are usually flown at what altitude above ground level?
+- Are short-range bluetooth accessories able to be used?
+- Was there conflict of faith and beliefs at the end of von NEumann's life?
+- The international deal between the US, other countries, and what controversial nation is not a treaty?
+- Along with exhibition and distribution, what business did the Universal Film Manufacturing Company engage in?
+- During 1979-2015, Legislative Assembly terms lasted no longer than how many years?
+- What example did Darwin give of eyes evolving?
+- Why would this type be good for receiving but not transmtting?
+- Since 2011 direction has Forign direct investment gone?
+- In what city was Delany's New Mart opened? 
+- How did being listed initially impact species?
+- A media magnate from which country bought The Times in the 1980s?
+- what year did the EIC have 26,000 troops in their employ
+- What is the range of green wavelengths available when using DPSS technology?
+- What is the Alp-Transit project designed to reduce the time of travel between?
+- What was the average family size?
+- What was the value of the estimated 13 million substandard loans held by Fannie and Freddie in 2008?
+- Around the beginning of what two things did word universitas start to become prevalent?
+- Who was Victorias mothers comptroller?
+- When did the British government announce it would withdraw from Mandatory Palestine?
+- How many feet did the first photophone message travel?
+- When was the AFL's China project announced?
+- What brought the defeat of the Allobrogi?
+- When using a small loop antenna at a low frequency, what may occur?
+- When were the Benedictine monks required to maintain a charity school?
+- Is Hydrogen considered an energy resource?
+- What group runs The Procession?
+- What was Tennessee's population in 1980?
+- How important is Jesus' death to modern theology?
+- When were the immigration protocols relaxed in Norfolk Island?
+- How many shoulder buttons do SNES controllers have?
+- Who operates the parking meters?
+- Which contestant was disqualified because of an assault charge?
+- How was Victoria notified of her youngest son leopolds death?
+- Along with speed of the modern jet, what else limits target opportunities?
+- What are two types of railway transportation still use DC motor?
+- What park was developed between the 1950's and 1970's?
+- What is the MWRA?
+- Written IPA consonants use symbols for what?
+- What is the official name of the curricula that promotes nutritional education in schools?
+- What is pronounced [ɪ] in Moscow's dialect?
+- Where did the victory for Napoleon that secured his political power and increased his popularity in France occur?
+- What do archaeologists call the cultural phase of the inhabitants of Tennessee between 1000 BC and 1000 AD?
+- When did John Goldsmith share his work?
+- Where were court functions held upon the Queens return to London?
+- What does 'Praça dos Três Poderes' mean?
+- What was Kanye creating when he was five?
+- What year did the patent for lateral cut discs expire?
+- What is the name of the TCM spinoff channel operated in the UK?
+- What percentage of adults in the Netherlands spoke a dialect or regional language in 1995?
+- What's the equivalent of Universities of Technology in French-speaking areas?
+- In December of what year did intercommunal violence erupt?
+- What does radioactive decay of atoms in the core of the Earth release?
+- How many of the 12 Swiss universities are maintained at the cantonal level?
+- What metals were alloyed with tin to make it stronger?
+- What was the rate that the GDP expanded?
+- In Rome, what do historians consider to be a precedent for comics?
+- What did the National Guard refuse to obey?
+- What is the division of Catalan dialects?
+- Which college in Newham does Eton College co-sponsor?
+- What nonprofit did Schwarzenegger found in 1995?
+- Who took over the remains of the Western Roman Empire?
+- What do Jehovah Witnesses accept in lieu of blood transfusions?
+- Approximately how many people work in OU Health Sciences Center?
+- What types of child labour did Switzerland employ?
+- How did Syria and Jordan see Israel's plans?
+- What kind of training classes are offered at CTC?
+- What is the second largest Protestant denomination in North Carolina?
+- How do Jehovah's Witnesses see themselves in regards to the power structure of the church?
+- In 2011 what was Arsenal's estimated fan base?
+- What type of capacitor can cause signal distortion in the downstream tube?
+- How many geographic regions make up Greece?
+- What was later banned in public education?
+- When was the first ruby laser invented?
+- Sibley and Ahlquist' Phylogeny and Classification of Birds is a landmark work on the classification of what animals?
+- Who designed the chapel at Keble College, Oxford?
+- What have some of Czech's characters been used for by phonologists to denote?
+- How much did Taiwan fine Dell for its practices?
+- What is the national average for literacy in India?
+- What building provides the location of the Washington University School of Law?
+- Which music video contains the last footage of Freddie Mercury?
+- How many universities are in Switzerland?
+- Chopin was first in writing what for concerts?
+- what was the 1989 hit theme released by KMS?
+- Which part of Detroit has gotten billions in investment around the turn of the millennium?
+- Instead of rose windows, what type of windows do Italian cathedral facades usually feature?
+- After Antigonus was killed, what region did Ptolemy take over?
+- In what year was the Musee de quai Branly built?
+- Who is the director of the San Diego Symphony? 
+- Media production and media reception are examples of what type of context?
+- What kind of structure did the People's Committee system use?
+- What historical school claims that sentiments and meta-emotions can be learned?
+- What did the Vedanta school represent in Hindu philosophy?
+- What was in the first data dump?
+- Who thought the senses were more important, Aristotle or Plato?
+- Where is the the Umayyad Mosque located?
+- How many people are on the Territorial Council?
+- What historical event did Baker and Schwarzenegger watch on TV together on their first date?
+- What did Carnivore monitor?
+- What is the name of the campaign that Beyoncé and others are involved in that deals with gun control?
+- Who were the founders of progressive education?
+- When did the Hostellers of London become a guild?
+- What is Wayne Counties average income?
+- Which color of hair is most common among mammalian taxa?
+- In 1876 who lobbied for the construction of the differential analyzers?
+- Did Eran Elhaik, from Johns Hopkins University School of Public Health argue for or against Khazar descent?
+- What did the ninth century bring?
+- What nation provided the most legal immigrants to New York City in the Caribbean?
+- What role did Pelosi win in 112th Congress?
+- Planck studied what problem posed originally by Kirchhoff?
+- WHo is the nephew of buda king casimer III the great?
+- How many General Category properties does each code point have?
+- What will the project named CASA 1000 do?
+- What organization advises the Tucson government on bike concerns?
+- What are the names of the Conservative synagogues in Richmond?
+- What was the final track on Queen's The Game?
+- About when did architecture begin specializing?
+- What is evapotranspiration?
+- Which of the two systems, reward or punishment is better understood?
+- Which contestant came in third place?
+- Brincourt made preparations to invade which state?
+- What did Nasser's allies receive in the new arrangement?
+- When was construction on the Thames Barrier completed?
+- How had the Vandals earned their strong reputation?
+- Who is the only federal employee that can spend un-vouched for money?
+- When was the Premier League originally formed?
+- What did the published scheme attempt to do?
+- The political scene of Estonia is similar to other countries in what continent?
+- Burke was the only known writer for the Register until what year?
+- Where does a bill go once the President signs it into effect?
+- What type of alcohol is found in beer?
+- What is another name for steamer ducks?
+- What was the population of Guinea-Bissau in 1950?
+- The next layer's surface-to-air missiles are carried by what?
+- Who are the indigenous people of the Americas descended from?
+- Per Clayton's analysis of loans issued from January 2006 to June 2007, what percent of loans did not meet minimal standards of any issuer?
+- What is not very well developed in Peru?
+- One of Napoleon's primary goals was to enforce the Continental System against whom?
+- What did the Province of West Jersey specify there would not be for those running for an office, in 1681?
+- When were "Eisenhower Interstate System" signs first posted along highways?
+- What is the largest criticism leveled by consumers against Comcast
+- What is one disease that has been nearly eradicated thanks to vaccines and antibiotics?
+- What is a definition of signal-to-noise ratio?
+- On what date did the constitution of India become active?
+- What did Oberhauser call himself after he faked his death?
+- Who did Henry fight a short war with in 1183?
+- During the Middle Ages, who was no longer expected to stay behind walls away from the common man?
+- What percentage of Imperial's staff was classified as world leading in 2008?
+- Corrupt people may manipulate what to receive more assistance?
+- What victory strengthened John's position?
+- What caused many men to free slaves from 1782 to 1810?
+- What is the primary cue for migration?
+- Who was the most famous prose writer in early Estonian history?
+- Do all plants have male and female parts?
+- What rival did the Portuguese fend off in Guinea-Bissau?
+- The most expensive office tower built in the world today is what?
+- What era was Chopin active during?
+- Article 23, before it was rephrased allowed what?
+- What gods did Juno and Minerva replace in Roman religious practice?
+- These elements concern health related to reproduction and what else?
+- How many households have 5 or more people living in them?
+- What are groups other than blacks considered to be?
+- Besides Carnival, what other major cruise line parks its record-breaking cruise ships in Southampton Water? 
+- What organization sought to strip Washington University of its tax-exempt status in the 1940's?
+- What does Namibia protect in it's constitution? 
+- Is there anything that trumps state law?
+- What is the function of an Alaskan recording district?
+- When was Plymouth Gin first distilled?
+- What is ab example of a gender marked adjective?
+- Who was the highest ranking official killed in the attack?
+- What is one system that uses electromagnetic waves?
+- Where is the House of the Black Madonna located? 
+- The Pyx Chamber and chapter house are under guardianship of whom?
+- What did Feynman investigate while working on quantum gravity?
+- What happened to the cargo train?
+- There was disagreement between universities and scientists over schools focusing on science, and the idea of what?
+- What team pushed Barcelona out of the Champions League play?
+- What business organization is the Congo a member of?
+- How many hispanics live in the City of Boston?
+- Where does Mac harware boot directly to in most PowerPC-based Macs?
+- Where is the Church of the Holy Sepulchre located?
+- Who was the Trojan priest of Apollo?
+- MediaOne merged with what telecommunications company?
+- Where must enclitics appear in a sentence?
+- How long was the rule of the national democratic party?
+- What years were the Maccabean Revolt of Judas Maccabeus?
+- Where was Nigeria's second satellite launched?
+- What leader sponsored the expedition that discovered Cape Verde?
+- What is the purpose of polyribosomes in bacteria?
+- What sends a point in the square to the relating point under the symmetry? 
+- In degrees Fahrenheit, what is the normal range of high temperatures in Miami?
+- When was Bertrand Russell born?
+- What was Napoleon Bonaparte's nationality?
+- How does freeze drying, distillation and metallurgy benefit from a deep vacuum?
+- Why will water become concave, according to the relativity theory?
+- Who symbolizes the third lion not found on the Golden Boot trophy?
+- What type of sports are popular in Brasilia?
+- Cossacks came from what backgrounds?
+- According to the constructivists, what is an example of a learned meta-emotion?
+- What two districts are extensions of the Paris business district?
+- There are several religious group that have seem rise in demographics, one of which is popular among African Americans being?
+- Instead of faith, John Polkinghorne relies on what when it comes to the theory of materialism?
+- Two other major forms of nusach among Ashkenazic Jews are what?
+- What is Whitehead's most well-known critical statement regarding the Christian notion of God?
+- Who governs Northwestern?
+- John did not regard the loss of Duchy as a permanent shift in what?
+- The Opera feed reader is more what?
+- What is the term used to describe the obligation for humans to avoid disrupting the ecosystem?
+- What were multiracial children with a tribal mother considered to be in tribes of the Southeast?
+- Why is urban Melbourne divided into hundreds of suburbs?
+- What area copied Bismarck's social programs the most?
+- When was the first property for what would become BYU acquired?
+- Leibniz's example involves how many universes?
+- How many states does Nigeria have?
+- The Stonewall riots are named after what building?
+- What portion of students are native Utah residents?
+- In terms of teaching and research, what is the world's foremost institute of social science?
+- Where does London rank in terms of metropolitan area GDP?
+- What kind of bombs were effective in the beginning but became less so with time?
+- What industry are slide rules still used today?
+- How did Gaddafi's father earn a living?
+- Where did the torch relay finish in Turkey?
+- When was the administrative county of Lancashire created?
+- During what century did businesses move out of Boston to find cheaper labor?
+- When were the Chronicles of Huayang compiled?
+- Until when did Henry III continue his attempts to reclaim Normandy?
+- Which planet is compositionally similar to Neptune? 
+- What changed worldwide property drasrically?
+- Under whose reign did the last major building works take place?
+- In 1914, a separately paid-for supplement for The Times was a magazine that featured what kind of content?
+- What was Arsenal's league position ranking at the end of the last century?
+- Why has MTP become the primary storage access protocol of the Android operating system?
+- What was General Hodge appointed the head of?
+- Besides in treating human disease where else are antibiotics used?
+- What is the relationship called in a navigational model?
+- In what year did apple release the special U2 model of the iPod?
+- What type of Ottoman poetry is ritualized?
+- Which religion will have the most followers by the year 2050 if trends continue?
+- Who is considered the enactor of laws?
+- Why was this constitutional convention held?
+- What is the 10th Amendment in the United States?
+- What have Jehovah's Witnesses maintained we are living on the precipice of since their formation?
+- What is listed as the sixth of the six paramitas of the mahayana?
+- Which host quit after the first season?
+- How long ago has circumstantial evidence has been found for the existence of angiosperms?
+- What's the estimated populace of Greeks on the isle of Cyprus ?
+- Who assumed power in Saudi Arabia after the failed assassination attempt?
+- By what means did locale people travel between Pacific islands?
+- What aspect of the PS3 Slim was CNET unhappy was missing for PS2 games?
+- Assistance from what country is an important part of the Marshall Islands economy?
+- What did the European Commission review 
+- What part of Europe was split up by the pact?
+- Who wanted the CIA to have a central group that organized information for him?
+- What kind of plants are common on Saint Helena?
+- What was often deployed when trying to gain power?
+- In what year did the Ostrogoths settle in the Roman Empire?
+- What was the diagnosis of Chopin's health condition at this time?
+- What does SWS stand for?
+- What year did Nintendo's market surpass all computer software?
+- How many governments are apart of federalism?
+- What language does Dutch get its second highest percentage of loanwords from?
+- Who was the king of Belgium  in 1918?
+- Hayek believed the state could aid the economy by doing what?
+- What weather factor produces a great variance in local climates in the Seattle area?
+- Who ate the meat of the sacrifice during the after sacrifice  banquet?
+- What is the second most common language spoken in Montana?
+- When did the inaugural  FA cup tournament take place?
+- What is the annual turnover for the trust?
+- When did a similar revolt occur in Castile?
+- What year did the Chicago Cubs' name become official? 
+- What is one who replaces a player during a game called?
+- Other than "taler", what is the other name of the German coin?
+- Who issued the Plan de Guadalupe?
+- In what year did the earthquake in Sichuan occur?
+- What was Montini accused of being by the Italian government?
+- If a carbohydrate is not a simple monosaccharide, what else could it be?
+- How big is the largest copper crystal that has been found?
+- What is the largest populated city in Arizona?
+- How could have more been achieved in the air offensive?
+- What is the compilation and codification of all federal statutes?
+- A legislator said that by allowing Farrow to enter Hong Kong while denying others was a violation to what policy?
+- Where was the epicenter of the earthquake?
+- Where was Jesus Crucified?
+- With what type of insect is a dicondylic mandible associated?
+- What was the original size of Dunstan's original monk community?
+- What name does the Boston School for Deaf Mutes go by now?
+- Do a teen's friends have a large or small impact on their social development?
+- How many people competed to be Brasilia's urban planner?
+- When was Morrisania created?
+- When was the first Queen Bluray released?
+- In what month was the second generation of the Digital Monsters Released?
+- what year was the Treaty of Paris agreed on?
+- Who became chairperson of Universal Pictures in September 2013?
+- What gospel singer did Freddie Mercury cite as an inspiration?
+- Who supported the Magisterial Reformation?
+- When was Cork believed to have been founded?
+- What is the largest base of shooting films and TV dramas in China?
+- What year did Lord Kinnard die? 
+- What does the concept of "full faith and credit" protect?
+- When was the first constitutional convention held in Montana?
+- When was Fort Hamilton built?
+- What did the Manchester police say about these claimed attacks?
+- Which conquistador from Spain conquered the Aztec Empire?
+- How old was Tikhonov when he stopped being Chairman?
+- What is the high wind speed on Neptune's cloud tops?
+- What type of a cappella music is specific to American culture?
+- How did Bush try to convey that he was the stronger, tougher candidate?
+- What specifically did his son work on?
+- Who revealed the starting points of this evolution to be economic deterioration and political confusion?
+- When did the Great Fire of London occur?
+- How many volumes was Queen Victorias journal?
+- Why was there a photo of the Boardwalk if it wasn't actually damaged in the storm?
+- Which monarch granted assent reluctantly under the advise of his ministers?
+- What phenomenon did the Reformation bring about?
+- Apart from cutting the frequency fidelity in half, what else was cut in half?
+- What law protects the teaching of Arabic and Islamic traditions in Mindanao?
+- What year did the CAF leave Europe?
+- How did Bell's reworked melodeon send music?
+- What are the names of the two states that are sovereign in the British Isles today?
+- When did the first Rajput kingdoms emerge in India?
+- Who retains ownership of the collateral until the debt is paid?
+- What is the name of the romantic drama film that Madonna starred in?
+- How could someone learn more about how to safely use and handle an unknow pesticide?
+- How many sales of Keeping Up Appearances have been made to non-British buyers?
+- What kind of Republic did some insurgents declare Alsace-Lorraine?
+- How much of the Bronx speaks African languages at home?
+- Why were ports better targets?
+- What video game did Beyoncé back out of?
+- What is Charleston's seasonal record of snowfall?
+- What song did Madonna release for the Live Earth series of concerts?
+- What day is the Santa Monica Feast held on?
+- What do people typically call a web browser?
+- What is reinvent the toilet trying to develop
+- The French Marines and naval infantry were dispatched to reinforce what?
+- What is a common background for a Japanese wrestler? 
+- What principles usually govern the Estonian orthography?
+- A patent issue much later than normally expected can be referred to as what?
+- What is the capital of Massachusetts?
+- In which year did Imperial merge with St Mary's Hospital Medical School?
+- Insects have what kind of protein content?
+- What is the tallest mountain in Greece?
+- Who considers animal fur to be cruel and unnecessary?
+- In what year did Frédéric obtain citizenship in France?
+- What branch of gevernment is responsible for ratifing treaties?
+- What other colony was taken by the British from Spain?
+- What is a component that all CPUs have?
+- What country did Montini visit as Cardinal?
+- Who establishes the executive branch of Estonia?
+- When did Japan adobt the name for the war?
+- When does infection begin?
+- In what year was the Plebiscitum Ovinium initiative enacted?
+- What award did American Idol win for its Idol Gives Back charity work?
+- Performers can use their knowledge of what to help interpret a written score?
+- What are some other causes of airway obstruction?
+- What European national ancestry was claimed by 45% of Tennessee residents in 1980?
+- What percentage of the top 100 world chess players come from the Ashkenazi Jewish community?
+- Who released the Internet Explorer browser?
+- What does Link help Midna find?
+- What is the primary race of the population of the Randolph neighborhood?
+- Did everyone agree that Amendment 36 was a good idea?
+- Who was Eli Lilly's work based off of?
+- What was the highest temperature recorded in Houston?

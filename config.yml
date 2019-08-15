@@ -1,11 +1,7 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
-language: "zh"
-
-pipeline:
-- name: "JiebaTokenizer"
-- name: "CountVectorsFeaturizer"
-- name: "EmbeddingIntentClassifier"
+language: en
+pipeline: supervised_embeddings
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
