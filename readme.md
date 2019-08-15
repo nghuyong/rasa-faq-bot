@@ -92,7 +92,7 @@ Rasa X是一个很好用的rasa工具，可以从真实对话中学习并改进�
 * 安装[Rasa X](https://rasa.com/docs/rasa-x/installation-and-setup/)
 
 * 本地运行Rasa X
-	* 
+
 ```bash
 rasa x
 ```
