@@ -98,7 +98,7 @@ rasa x
 ```latex
 Starting Rasa X in local mode... �🚀                                                                                               
  
-The server is running at http://localhost:localhost/login?username=me&password=zrjV0BwYSzYP
+The server is running at http://localhost:5005/login?username=me&password=zrjV0BwYSzYP
 ```
 
 然后将链接复制粘贴进游览器就可以进入对话界面了~
