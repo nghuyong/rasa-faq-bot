@@ -1,5 +1,5 @@
 <h1 align="center">rasa-faq-bot</h1>
-<p align="center">Using Rasa to build a FAQ bot</p>
+<p align="center">Using Rasa to build a FAQ bot, here is the [中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese)</p>
 
 <p align="center">
   <a href="https://github.com/nghuyong/rasa-faq-bot/stargazers">
@@ -115,5 +115,3 @@ Copy the link into your browser, then you can access your rasa x page.
 	* Follow the data foemat in data/nlu/faq.json，replace it by your own data
 	* Run process.py(Default data size is at most 1000 pieces，you can modify the process.py on your own)
 	* Run actions.py
-
-**5. Here is the [Chinese model](https://github.com/nghuyong/rasa-faq-bot/tree/chinese)**
