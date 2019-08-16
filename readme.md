@@ -1,5 +1,6 @@
 <h1 align="center">rasa-faq-bot</h1>
-<p align="center">Using Rasa to build a FAQ bot, here is the [中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese)</p>
+<center>Using Rasa to build a FAQ bot, [中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese) </center>
+
 
 <p align="center">
   <a href="https://github.com/nghuyong/rasa-faq-bot/stargazers">
