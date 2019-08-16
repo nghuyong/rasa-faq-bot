@@ -1,6 +1,6 @@
 <h1 align="center">rasa-faq-bot</h1>
 <p align="center"> Using Rasa to build a FAQ bot</p>
-<center>[中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese)</center>
+<a align="center" href="https://github.com/nghuyong/rasa-faq-bot/tree/chinese">中文版本</a>
 
 
 <p align="center">
@@ -30,7 +30,8 @@ FAQ(Frequently Asked Questions) bot is the most important part of the smart cust
 Usually we collect common questions and answers from actual scenarios and we call these standard question-and-answer pairs for the knowledge base.
 FAQ-bot will intelligently answer user questions based on this knowledge base.
 
-So, in this project, we will use Rasa to build a smart faq-bot!
+So, in this project, we will use Rasa to build a smart faq-bot! 点击查看[中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese).
+
 
 
 <h2 align="center">Get Started</h2>
