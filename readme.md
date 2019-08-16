@@ -105,6 +105,7 @@ Copy the link into your browser, then you can access your rasa x page.
 ![](./images/happy_path.png)
 
 
+
 **4. Note**
 
 * Sometimes when the service is started, the port is already in use. At this time, it is better to kill the process of the relevant port directly.
@@ -114,3 +115,5 @@ Copy the link into your browser, then you can access your rasa x page.
 	* Follow the data foemat in data/nlu/faq.json，replace it by your own data
 	* Run process.py(Default data size is at most 1000 pieces，you can modify the process.py on your own)
 	* Run actions.py
+
+**5. Here is the [Chinese model](https://github.com/nghuyong/rasa-faq-bot/tree/chinese)**
