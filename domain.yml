@@ -7,17 +7,17 @@ intents:
 - bye
 templates:
   utter_greet:
-  - text: ÄãºÃ¡«
+  - text: ä½ å¥½~
   utter_goodbye:
-  - text: ºÃµÄ£¬ÔÙ¼û¡«
+  - text: å†è§~
   utter_default:
-  - text: Ã»Ìı¶®Ê²Ã´ÒâË¼Å¶
+  - text: æŠ±æ­‰ï¼Œè¿™ä¸ªé—®é¢˜è¶…å‡ºæˆ‘çš„èƒ½åŠ›èŒƒå›´äº†å“Ÿ...
   utter_ask_need_help:
-  - text: ÇëÎÊĞèÒª°ïÖúÂğ?
+  - text: è¯·é—®æ‚¨éœ€è¦å¸®åŠ©å—ï¼Ÿ
   utter_ask_need_more_help:
-  - text: ÇëÎÊ»¹ĞèÒªÊ²Ã´°ïÖúÂğ£¿
+  - text: è¯·é—®æ‚¨è¿˜éœ€è¦ä»€ä¹ˆå¸®åŠ©å—ï¼Ÿ
   utter_sorry:
-  - text: ·Ç³£±§Ç¸£¬Ã»ÓĞ½â´ğÄúµÄÎÊÌâ¡£Äú¿ÉÒÔ²¦´òµç»°×ªÈË¹¤·şÎñ...
+  - text: éå¸¸æŠ±æ­‰ï¼Œæ²¡æœ‰è§£ç­”æ‚¨çš„é—®é¢˜ã€‚æ‚¨å¯ä»¥æ‹¨æ‰“ç”µè¯è½¬äººå·¥æœåŠ¡...
 actions:
 - actions.ActionGetFAQAnswer
 - utter_greet
