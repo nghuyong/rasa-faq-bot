@@ -1,5 +1,5 @@
 <h1 align="center">rasa-faq-bot</h1>
-<p align="center">Using Rasa to build a FAQ bot</p>
+<p align="center">Using Rasa to build a FAQ bot, <a href="https://github.com/nghuyong/rasa-faq-bot/tree/chinese">中文版本</a></p>
 
 <p align="center">
   <a href="https://github.com/nghuyong/rasa-faq-bot/stargazers">
@@ -28,7 +28,8 @@ FAQ(Frequently Asked Questions) bot is the most important part of the smart cust
 Usually we collect common questions and answers from actual scenarios and we call these standard question-and-answer pairs for the knowledge base.
 FAQ-bot will intelligently answer user questions based on this knowledge base.
 
-So, in this project, we will use Rasa to build a smart faq-bot!
+So, in this project, we will use Rasa to build a smart faq-bot! 
+
 
 
 <h2 align="center">Get Started</h2>
@@ -103,6 +104,7 @@ Copy the link into your browser, then you can access your rasa x page.
 <h2 align="center">Dialog example</h2>
 
 ![](./images/happy_path.png)
+
 
 
 **4. Note**
