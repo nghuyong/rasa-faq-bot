@@ -28,7 +28,7 @@ FAQ(Frequently Asked Questions) bot is the most important part of the smart cust
 Usually we collect common questions and answers from actual scenarios and we call these standard question-and-answer pairs for the knowledge base.
 FAQ-bot will intelligently answer user questions based on this knowledge base.
 
-So, in this project, we will use Rasa to build a smart faq-bot! 点击查看[中文版本](https://github.com/nghuyong/rasa-faq-bot/tree/chinese).
+So, in this project, we will use Rasa to build a smart faq-bot! 
 
 
 
