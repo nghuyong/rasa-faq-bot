@@ -2,3 +2,4 @@ typing==3.6.2
 numpy==1.13.3
 bert_serving_server==1.9.3
 rasa_sdk==1.1.1
+sentence-transformers==0.2.6.1
