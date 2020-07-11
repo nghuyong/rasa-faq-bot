@@ -8,18 +8,20 @@
 # This is a simple example for a custom action which utters "Hello World!"
 import json
 from typing import Any, Text, Dict, List
-
-from bert_serving.client import BertClient
+import torch
+# from bert_serving.client import BertClient
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 import numpy as np
+from sentence_transformers import SentenceTransformer
 
 
 class ActionGetFAQAnswer(Action):
 
     def __init__(self):
         super(ActionGetFAQAnswer, self).__init__()
-        self.bc = BertClient()
+        # self.bc = BertClient(check_version=False)
+        self.bc = SentenceTransformer('bert-base-nli-mean-tokens')
         self.faq_data = json.load(open("./data/nlu/faq.json", "rt", encoding="utf-8"))
         self.standard_questions_encoder = np.load("./data/standard_questions.npy")
         self.standard_questions_encoder_len = np.load("./data/standard_questions_len.npy")
@@ -27,6 +29,7 @@ class ActionGetFAQAnswer(Action):
 
     def get_most_similar_standard_question_id(self, query_question):
         query_vector = self.bc.encode([query_question])[0]
+        print("Question received at action engineer")
         score = np.sum((self.standard_questions_encoder * query_vector), axis=1) / (
                 self.standard_questions_encoder_len * (np.sum(query_vector * query_vector) ** 0.5))
         top_id = np.argsort(score)[::-1][0]
@@ -39,7 +42,8 @@ class ActionGetFAQAnswer(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         query = tracker.latest_message['text']
-        most_similar_id, score = self.get_most_similar_standard_question_id(query)
+        print(query)
+        most_similar_id, score = self.get_most_similar_standard_question_id(query)        
         if float(score) > 0.93:
             response = self.faq_data[most_similar_id]['a']
             dispatcher.utter_message(response)
@@ -52,12 +56,13 @@ class ActionGetFAQAnswer(Action):
 
 
 def encode_standard_question():
-    bc = BertClient()
+    # bc = BertClient()
+    bc = SentenceTransformer('bert-base-nli-mean-tokens')
     data = json.load(open("./data/nlu/faq.json", "rt", encoding="utf-8"))
     standard_questions = [each['q'] for each in data]
     print("Standard question size", len(standard_questions))
     print("Start to calculate encoder....")
-    standard_questions_encoder = bc.encode(standard_questions)
+    standard_questions_encoder = torch.tensor(bc.encode(standard_questions)).numpy()
     np.save("./data/standard_questions", standard_questions_encoder)
     standard_questions_encoder_len = np.sqrt(np.sum(standard_questions_encoder * standard_questions_encoder, axis=1))
     np.save("./data/standard_questions_len", standard_questions_encoder_len)
