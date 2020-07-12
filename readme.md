@@ -34,25 +34,41 @@ So, in this project, we will use Rasa to build a smart faq-bot!
 
 <h2 align="center">Get Started</h2>
 
-**1. Run the shell and activate bert-service**
+**1. Run the shell and activate bert-service or computer sentence embedding with sentence-transformers**
 
 We store the knowledge in data/nlu/faq.json，which includes lots of question-and-answer pairs. We use bert-service to calculate the similarity between the user question and the questions in the knowledge base. Then we choose the most similar question and return the corresponding answer to the user.
 
 * Specific operation：
-	* Install bert-serving-server and bert-serving-client，More information about [bert-as-service](https://github.com/hanxiao/bert-as-service)
-	* Download pre-trained BERT model，unzip it(for example, cased_L-24_H-1024_A-16.zip).
-	* Next, you need to change "BERT_ENGLISH_MODEL_DIR" into your model path
-	```latex
+  * Install bert-serving-server and bert-serving-client，More information about [bert-as-service](https://github.com/hanxiao/bert-as-service)
+  * Download pre-trained BERT model，unzip it(for example, cased_L-24_H-1024_A-16.zip).
+  * Next, you need to change "BERT_ENGLISH_MODEL_DIR" into your model path
+  ```latex
      -bert-serving-start \
      -pooling_layer -4 -3 -2 -1 \
      -model_dir=BERT_ENGLISH_MODLE_DIR \
      -num_worker=8 \
      -max_seq_len=16
-    ```
-	* Run the shell
-	```bash 
-	./run_bert_service.sh
-	```
+  ```
+  * Run the shell
+  ```bash 
+  ./run_bert_service.sh
+  ```
+- Alternatively, you can also choose to use `sentence transformer` to coputer sentence embedding. Later, sentence embeeding can be used to calculate the similarity between the user question and the questions in the knowledge base and thus you can skip the earlier option `bert-as-service`. The original repo of sentence transformer is available at [here](https://github.com/UKPLab/sentence-transformers).
+ * In order to use this, please modify the `action.py` file. Enable the `sentence_transformer_select` flag as **True** and chose `pretrained_model` for sentence embedding with different pooling schemes are available, please refer to [this link](https://github.com/UKPLab/sentence-transformers/blob/master/docs/pretrained-models/nli-models.md) for more details.
+ ```python
+ sentence_transformer_select=True
+ pretrained_model='bert-base-nli-mean-tokens'
+ ```
+- There are several options for pre-trained BERT models with different pooling schemes are: 
+
+  - **bert-base-nli-mean-tokens**: BERT-base model with mean-tokens pooling. 
+  - **bert-base-nli-max-tokens**: BERT-base with max-tokens pooling. 
+  - **bert-base-nli-cls-token**: BERT-base with cls token pooling.
+  - **bert-large-nli-mean-tokens**: BERT-large with mean-tokens pooling.
+  - **bert-large-nli-max-tokens**: BERT-large with max-tokens pooling.
+  - **bert-large-nli-cls-token**: BERT-large with CLS token pooling.
+
+* Also, note that you can modify the matching score threshold criteria by changing the `score_threshold` in `actions.py` file  based on your need.
 
 **2. Run Rasa custom actions**
 
@@ -73,7 +89,7 @@ rasa run actions
 
 Then you can get a log like this:
 
-```latex
+```bash
 │2019-08-09 11:10:32 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
 │(1000, 3072)
 │2019-08-09 11:10:33 INFO     rasa_sdk.executor  - Registered function for 'action_get_answer'.
@@ -92,7 +108,7 @@ rasa x
 
 And you can get a log like this:
 
-```latex
+```bash
 Starting Rasa X in local mode... �🚀                                                                                               
  
 The server is running at http://localhost:5005/login?username=me&password=zrjV0BwYSzYP
@@ -113,6 +129,7 @@ Copy the link into your browser, then you can access your rasa x page.
 * If the error is about the database is locked，just delete rasa.db and tracker.db.
 * You'd better use compatible rasa and rasa x，this project uses rasa 1.2.2 and rasa x 0.20.1(they are compatible)
 * Use your own data to train a model:
-	* Follow the data foemat in data/nlu/faq.json，replace it by your own data
-	* Run process.py(Default data size is at most 1000 pieces，you can modify the process.py on your own)
-	* Run actions.py
+  * Follow the data foemat in data/nlu/faq.json，replace it by your own data
+  * Run process.py(Default data size is at most 1000 pieces，you can modify the process.py on your own)
+  * Run actions.py
+  * Please tune the matching threshold score as per your requirement.
